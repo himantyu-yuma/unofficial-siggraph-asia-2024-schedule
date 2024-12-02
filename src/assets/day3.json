@@ -1,0 +1,1665 @@
+[
+  {
+    "startTime": "2024-12-04T23:00:00Z",
+    "endTime": "2024-12-05T09:00:00Z",
+    "timezone": "JST",
+    "title": "Registration",
+    "type": "Registration",
+    "location": "Lobby Gallery (1) & (2), G Block, Level B1",
+    "speakers": "",
+    "tags": []
+  },
+  {
+    "startTime": "2024-12-04T23:00:00Z",
+    "endTime": "2024-12-05T09:00:00Z",
+    "timezone": "JST",
+    "title": "Speaker Practice Room",
+    "type": "General Locations",
+    "location": "G406, G Block, Level 4",
+    "speakers": "",
+    "tags": [
+      "People with a Enhanced Access can attend",
+      "People with a Exhibit & Experience Access can attend",
+      "People with an Experience Hall Exhibitor Pass can attend",
+      "People with a Full Access Registration Can Attend",
+      "People with a Full Access Supporter can attend",
+      "People with a Trade Exhibitor Pass can attend"
+    ]
+  },
+  {
+    "startTime": "2024-12-04T23:00:00Z",
+    "endTime": "2024-12-05T09:00:00Z",
+    "timezone": "JST",
+    "title": "Speaker Preparation Room",
+    "type": "General Locations",
+    "location": "G403, G Block, Level 4",
+    "speakers": "",
+    "tags": [
+      "People with a Enhanced Access can attend",
+      "People with a Exhibit & Experience Access can attend",
+      "People with an Experience Hall Exhibitor Pass can attend",
+      "People with a Full Access Registration Can Attend",
+      "People with a Full Access Supporter can attend",
+      "People with a Trade Exhibitor Pass can attend"
+    ]
+  },
+  {
+    "startTime": "2024-12-04T23:00:00Z",
+    "endTime": "2024-12-05T10:00:00Z",
+    "timezone": "JST",
+    "title": "Student Volunteers Room",
+    "type": "General Locations, Student Volunteer",
+    "location": "G701, G Block, Level 7",
+    "speakers": "",
+    "tags": []
+  },
+  {
+    "startTime": "2024-12-05T00:00:00Z",
+    "endTime": "2024-12-05T01:10:00Z",
+    "timezone": "JST",
+    "title": "(Don't) Make Some Noise: Denoising",
+    "type": "Technical Papers",
+    "location": "Hall B5 (2), B Block, Level 5",
+    "speakers": "Wenzel Jakob",
+    "tags": [
+      "People with a Full Access Registration Can Attend",
+      "People with a Enhanced Access can attend",
+      "This Session will be held in English Language"
+    ]
+  },
+  {
+    "startTime": "2024-12-05T00:00:00Z",
+    "endTime": "2024-12-05T01:00:00Z",
+    "timezone": "JST",
+    "title": "Community powered product development: how to accelerate learnings with ALPHA/BETA research programs",
+    "type": "Birds of a Feather",
+    "location": "G408, G Block, Level 4",
+    "speakers": "Annabel Blake",
+    "tags": [
+      "People with a Enhanced Access can attend",
+      "People with a Exhibit & Experience Access can attend",
+      "People with an Experience Hall Exhibitor Pass can attend",
+      "People with a Full Access Registration Can Attend",
+      "People with a Full Access Supporter can attend",
+      "People with a Trade Exhibitor Pass can attend",
+      "This Session will be held in English Language"
+    ]
+  },
+  {
+    "startTime": "2024-12-05T00:00:00Z",
+    "endTime": "2024-12-05T09:00:00Z",
+    "timezone": "JST",
+    "title": "Computer Animation Festival -  Animation Theater",
+    "type": "Computer Animation Festival",
+    "location": "G404, G Block, Level 4",
+    "speakers": "",
+    "tags": [
+      "People with a Enhanced Access can attend",
+      "People with a Full Access Registration Can Attend",
+      "People with a Full Access Supporter can attend"
+    ]
+  },
+  {
+    "startTime": "2024-12-05T00:00:00Z",
+    "endTime": "2024-12-05T09:00:00Z",
+    "timezone": "JST",
+    "title": "Conference Management Office",
+    "type": "General Locations",
+    "location": "Seminar Room 2, E2007, E Block, Level B2",
+    "speakers": "",
+    "tags": []
+  },
+  {
+    "startTime": "2024-12-05T00:00:00Z",
+    "endTime": "2024-12-05T01:00:00Z",
+    "timezone": "JST",
+    "title": "Cultivating Insight: Student Empowerment through DEI Visual Literacy in Graphic Design",
+    "type": "Birds of a FeatherDiversity, Equity And Inclusion",
+    "location": "G407, G Block, Level 4",
+    "speakers": "Emily Kim",
+    "tags": [
+      "People with a Enhanced Access can attend",
+      "People with a Exhibit & Experience Access can attend",
+      "People with an Experience Hall Exhibitor Pass can attend",
+      "People with a Full Access Registration Can Attend",
+      "People with a Full Access Supporter can attend",
+      "People with a Trade Exhibitor Pass can attend",
+      "This Session will be held in English Language"
+    ]
+  },
+  {
+    "startTime": "2024-12-05T00:00:00Z",
+    "endTime": "2024-12-05T01:00:00Z",
+    "timezone": "JST",
+    "title": "DAC: Digital Arts Community Year-Round Activities Review",
+    "type": "Birds of a Feather",
+    "location": "G405, G Block, Level 4",
+    "speakers": "Rebecca XuVictoria SzaboRewa Wright",
+    "tags": [
+      "People with a Enhanced Access can attend",
+      "People with a Exhibit & Experience Access can attend",
+      "People with an Experience Hall Exhibitor Pass can attend",
+      "People with a Full Access Registration Can Attend",
+      "People with a Full Access Supporter can attend",
+      "People with a Trade Exhibitor Pass can attend",
+      "This Session will be held in English Language"
+    ]
+  },
+  {
+    "startTime": "2024-12-05T00:00:00Z",
+    "endTime": "2024-12-05T01:10:00Z",
+    "timezone": "JST",
+    "title": "Deform Your Axis:  Skeletons and Cages",
+    "type": "Technical Papers",
+    "location": "Hall B5 (1), B Block, Level 5",
+    "speakers": "Yotam Gingold",
+    "tags": [
+      "People with a Full Access Registration Can Attend",
+      "People with a Enhanced Access can attend",
+      "This Session will be held in English Language"
+    ]
+  },
+  {
+    "startTime": "2024-12-05T00:00:00Z",
+    "endTime": "2024-12-05T01:45:00Z",
+    "timezone": "JST",
+    "title": "Depict Collect Select: Siggraph-Mascot design workshop",
+    "type": "Courses",
+    "location": "G602, G Block, Level 6",
+    "speakers": "Shaun BrittonShaun BrittonShaun Britton",
+    "tags": [
+      "People with a Full Access Registration Can Attend",
+      "People with a Enhanced Access can attend",
+      "This Session will be held in English Language"
+    ]
+  },
+  {
+    "startTime": "2024-12-05T00:00:00Z",
+    "endTime": "2024-12-05T09:00:00Z",
+    "timezone": "JST",
+    "title": "Exhibition Management Office",
+    "type": "General Locations",
+    "location": "Seminar Room 1, E2003, E Block, Level B2",
+    "speakers": "",
+    "tags": []
+  },
+  {
+    "startTime": "2024-12-05T00:00:00Z",
+    "endTime": "2024-12-05T01:10:00Z",
+    "timezone": "JST",
+    "title": "Keep in Touch /  No Touching",
+    "type": "Technical Papers",
+    "location": "Hall B7 (1), B Block, Level 7",
+    "speakers": "Paul Kry",
+    "tags": [
+      "People with a Full Access Registration Can Attend",
+      "People with a Enhanced Access can attend",
+      "This Session will be held in English Language"
+    ]
+  },
+  {
+    "startTime": "2024-12-05T00:00:00Z",
+    "endTime": "2024-12-05T07:40:00Z",
+    "timezone": "JST",
+    "title": "Netflix and Eyeline Come Together to Highlight the Importance of VFX Supervisors",
+    "type": "Exhibitor Talks",
+    "location": "G409, G Block, Level 4",
+    "speakers": "",
+    "tags": [
+      "People with a Enhanced Access can attend",
+      "People with a Exhibit & Experience Access can attend",
+      "People with an Experience Hall Exhibitor Pass can attend",
+      "People with a Full Access Registration Can Attend",
+      "People with a Full Access Supporter can attend",
+      "People with a Trade Exhibitor Pass can attend",
+      "This Session will have Simultaneous Translation from English to Japanese",
+      "No Photo Taking Allowed at this Session"
+    ]
+  },
+  {
+    "startTime": "2024-12-05T00:00:00Z",
+    "endTime": "2024-12-05T08:00:00Z",
+    "timezone": "JST",
+    "title": "Networking Lounge",
+    "type": "General Locations",
+    "location": "Lobby Gallery (1) & (2), G Block, Level B1",
+    "speakers": "",
+    "tags": []
+  },
+  {
+    "startTime": "2024-12-05T00:00:00Z",
+    "endTime": "2024-12-05T09:00:00Z",
+    "timezone": "JST",
+    "title": "Posters Gallery",
+    "type": "Poster",
+    "location": "Lobby Gallery (1) & (2), G Block, Level B1",
+    "speakers": "",
+    "tags": [
+      "People with a Enhanced Access can attend",
+      "People with a Exhibit & Experience Access can attend",
+      "People with an Experience Hall Exhibitor Pass can attend",
+      "People with a Full Access Registration Can Attend",
+      "People with a Full Access Supporter can attend",
+      "People with a Trade Exhibitor Pass can attend"
+    ]
+  },
+  {
+    "startTime": "2024-12-05T00:00:00Z",
+    "endTime": "2024-12-05T09:00:00Z",
+    "timezone": "JST",
+    "title": "Prayer Room",
+    "type": "General Locations",
+    "location": "G503, G Block, Level 5",
+    "speakers": "",
+    "tags": [
+      "People with a Enhanced Access can attend",
+      "People with a Exhibit & Experience Access can attend",
+      "People with an Experience Hall Exhibitor Pass can attend",
+      "People with a Full Access Registration Can Attend",
+      "People with a Full Access Supporter can attend",
+      "People with a Trade Exhibitor Pass can attend"
+    ]
+  },
+  {
+    "startTime": "2024-12-05T00:00:00Z",
+    "endTime": "2024-12-05T09:00:00Z",
+    "timezone": "JST",
+    "title": "Press Office",
+    "type": "General Locations",
+    "location": "G508, G Block, Level 5",
+    "speakers": "",
+    "tags": []
+  },
+  {
+    "startTime": "2024-12-05T00:00:00Z",
+    "endTime": "2024-12-05T09:00:00Z",
+    "timezone": "JST",
+    "title": "Sensory Room",
+    "type": "General Locations",
+    "location": "G501, G Block, Level 5",
+    "speakers": "",
+    "tags": [
+      "People with a Enhanced Access can attend",
+      "People with a Exhibit & Experience Access can attend",
+      "People with an Experience Hall Exhibitor Pass can attend",
+      "People with a Full Access Registration Can Attend",
+      "People with a Full Access Supporter can attend",
+      "People with a Trade Exhibitor Pass can attend"
+    ]
+  },
+  {
+    "startTime": "2024-12-05T00:00:00Z",
+    "endTime": "2024-12-05T09:00:00Z",
+    "timezone": "JST",
+    "title": "SIGGRAPH Asia Committee Room",
+    "type": "General Locations",
+    "location": "E2006, E Block, Level B2",
+    "speakers": "",
+    "tags": []
+  },
+  {
+    "startTime": "2024-12-05T00:00:00Z",
+    "endTime": "2024-12-05T09:00:00Z",
+    "timezone": "JST",
+    "title": "SIGGRAPH Asia Meeting Room",
+    "type": "General Locations",
+    "location": "E2005, E Block, Level B2",
+    "speakers": "",
+    "tags": []
+  },
+  {
+    "startTime": "2024-12-05T00:00:00Z",
+    "endTime": "2024-12-05T09:00:00Z",
+    "timezone": "JST",
+    "title": "SIGGRAPH Asia Village",
+    "type": "General Locations",
+    "location": "Lobby Gallery (1) & (2), G Block, Level B1",
+    "speakers": "",
+    "tags": []
+  },
+  {
+    "startTime": "2024-12-05T00:00:00Z",
+    "endTime": "2024-12-05T09:00:00Z",
+    "timezone": "JST",
+    "title": "Student Volunteer Sessions",
+    "type": "Student Volunteer",
+    "location": "G504, G Block, Level 5",
+    "speakers": "",
+    "tags": [
+      "People with a Full Access Registration Can Attend"
+    ]
+  },
+  {
+    "startTime": "2024-12-05T00:00:00Z",
+    "endTime": "2024-12-05T01:00:00Z",
+    "timezone": "JST",
+    "title": "The Evolution of Animation Technologies of Tekken 8 from 7",
+    "type": "Games",
+    "location": "G502, G Block, Level 5",
+    "speakers": "Katsuhiro NomuraMasanori Shinkawa",
+    "tags": [
+      "People with a Enhanced Access can attend",
+      "People with a Exhibit & Experience Access can attend",
+      "People with an Experience Hall Exhibitor Pass can attend",
+      "People with a Full Access Registration Can Attend",
+      "People with a Full Access Supporter can attend",
+      "People with a Trade Exhibitor Pass can attend",
+      "This Session will be held in English Language"
+    ]
+  },
+  {
+    "startTime": "2024-12-05T00:00:00Z",
+    "endTime": "2024-12-05T09:00:00Z",
+    "timezone": "JST",
+    "title": "XR Theater",
+    "type": "XR Theater",
+    "location": "Lobby Gallery (1) & (2), G Block, Level B1",
+    "speakers": "",
+    "tags": [
+      "People with a Enhanced Access can attend",
+      "People with a Exhibit & Experience Access can attend",
+      "People with an Experience Hall Exhibitor Pass can attend",
+      "People with a Full Access Registration Can Attend",
+      "People with a Full Access Supporter can attend",
+      "People with a Trade Exhibitor Pass can attend"
+    ]
+  },
+  {
+    "startTime": "2024-12-05T00:15:00Z",
+    "endTime": "2024-12-05T01:15:00Z",
+    "timezone": "JST",
+    "title": "W\u0113t\u0101 FX takes on Alien: Romulus",
+    "type": "Featured SessionProduction Session",
+    "location": "Hall B7 (2), B Block, Level 7",
+    "speakers": "Daniel MacarinMichael Chrobak",
+    "tags": [
+      "People with a Enhanced Access can attend",
+      "People with a Full Access Registration Can Attend",
+      "People with a Full Access Supporter can attend",
+      "This Session will be held in English Language",
+      "This Session will have AI Translation in Multi-Language"
+    ]
+  },
+  {
+    "startTime": "2024-12-05T00:30:00Z",
+    "endTime": "2024-12-05T02:30:00Z",
+    "timezone": "JST",
+    "title": "Meeting Chapters in Asia - Welcoming SA2025 to Hong Kong",
+    "type": "Birds of a Feather",
+    "location": "G410, G Block, Level 4",
+    "speakers": "Eric Liu",
+    "tags": [
+      "People with a Enhanced Access can attend",
+      "People with a Exhibit & Experience Access can attend",
+      "People with an Experience Hall Exhibitor Pass can attend",
+      "People with a Full Access Registration Can Attend",
+      "People with a Full Access Supporter can attend",
+      "People with a Trade Exhibitor Pass can attend",
+      "This Session will be held in English Language"
+    ]
+  },
+  {
+    "startTime": "2024-12-05T01:00:00Z",
+    "endTime": "2024-12-05T08:00:00Z",
+    "timezone": "JST",
+    "title": "Art Gallery",
+    "type": "Art Gallery",
+    "location": "Hall E, E Block, Level B2",
+    "speakers": "",
+    "tags": [
+      "People with a Enhanced Access can attend",
+      "People with a Exhibit & Experience Access can attend",
+      "People with an Experience Hall Exhibitor Pass can attend",
+      "People with a Full Access Registration Can Attend",
+      "People with a Full Access Supporter can attend",
+      "People with a Trade Exhibitor Pass can attend"
+    ]
+  },
+  {
+    "startTime": "2024-12-05T01:00:00Z",
+    "endTime": "2024-12-05T02:15:00Z",
+    "timezone": "JST",
+    "title": "Art Gallery Talks 2",
+    "type": "Art Gallery",
+    "location": "Hall E - Talk Stage, E Block, Level B2",
+    "speakers": "Yasuaki Kakehi",
+    "tags": [
+      "People with a Enhanced Access can attend",
+      "People with a Exhibit & Experience Access can attend",
+      "People with an Experience Hall Exhibitor Pass can attend",
+      "People with a Full Access Registration Can Attend",
+      "People with a Full Access Supporter can attend",
+      "People with a Trade Exhibitor Pass can attend",
+      "This Session will be held in English Language"
+    ]
+  },
+  {
+    "startTime": "2024-12-05T01:00:00Z",
+    "endTime": "2024-12-05T02:00:00Z",
+    "timezone": "JST",
+    "title": "Co-Creating Worlds with Game Designers, Animators, and Filmmakers",
+    "type": "Key EventsKeynote",
+    "location": "Hall C, C Block, Level 4",
+    "speakers": "Hiroaki Kitano",
+    "tags": [
+      "People with a Enhanced Access can attend",
+      "People with a Full Access Registration Can Attend",
+      "People with a Full Access Supporter can attend",
+      "This Session will be held in English Language",
+      "This Session will have Simultaneous Translation from English to Japanese"
+    ]
+  },
+  {
+    "startTime": "2024-12-05T01:00:00Z",
+    "endTime": "2024-12-05T08:00:00Z",
+    "timezone": "JST",
+    "title": "Emerging Technologies",
+    "type": "Emerging Technologies",
+    "location": "Hall E, E Block, Level B2",
+    "speakers": "",
+    "tags": [
+      "People with a Enhanced Access can attend",
+      "People with a Exhibit & Experience Access can attend",
+      "People with an Experience Hall Exhibitor Pass can attend",
+      "People with a Full Access Registration Can Attend",
+      "People with a Full Access Supporter can attend",
+      "People with a Trade Exhibitor Pass can attend"
+    ]
+  },
+  {
+    "startTime": "2024-12-05T01:00:00Z",
+    "endTime": "2024-12-05T08:00:00Z",
+    "timezone": "JST",
+    "title": "Extended Reality (XR)",
+    "type": "XR",
+    "location": "Hall E, E Block, Level B2",
+    "speakers": "",
+    "tags": [
+      "People with a Enhanced Access can attend",
+      "People with a Exhibit & Experience Access can attend",
+      "People with an Experience Hall Exhibitor Pass can attend",
+      "People with a Full Access Registration Can Attend",
+      "People with a Full Access Supporter can attend",
+      "People with a Trade Exhibitor Pass can attend"
+    ]
+  },
+  {
+    "startTime": "2024-12-05T01:00:00Z",
+    "endTime": "2024-12-05T01:33:00Z",
+    "timezone": "JST",
+    "title": "Finding The Future of Content Production w/AWS Cloud",
+    "type": "Exhibitor Talks",
+    "location": "G402, G Block, Level 4",
+    "speakers": "Doug Smith",
+    "tags": [
+      "People with a Enhanced Access can attend",
+      "People with a Exhibit & Experience Access can attend",
+      "People with an Experience Hall Exhibitor Pass can attend",
+      "People with a Full Access Registration Can Attend",
+      "People with a Full Access Supporter can attend",
+      "People with a Trade Exhibitor Pass can attend",
+      "This Session will be held in Japanese Language",
+      "This Session will be held in English Language"
+    ]
+  },
+  {
+    "startTime": "2024-12-05T01:00:00Z",
+    "endTime": "2024-12-05T08:00:00Z",
+    "timezone": "JST",
+    "title": "Games Exhibition",
+    "type": "Games, Trade Exhibition",
+    "location": "Hall E, E Block, Level B2",
+    "speakers": "",
+    "tags": [
+      "People with a Enhanced Access can attend",
+      "People with a Exhibit & Experience Access can attend",
+      "People with an Experience Hall Exhibitor Pass can attend",
+      "People with a Full Access Registration Can Attend",
+      "People with a Full Access Supporter can attend",
+      "People with a Trade Exhibitor Pass can attend"
+    ]
+  },
+  {
+    "startTime": "2024-12-05T01:00:00Z",
+    "endTime": "2024-12-05T02:00:00Z",
+    "timezone": "JST",
+    "title": "Tokyo Cultural Program - Calligraphy Experience",
+    "type": "Tokyo Cultural Programs",
+    "location": "G505, G Block, Level 5",
+    "speakers": "",
+    "tags": [
+      "People with a Enhanced Access can attend",
+      "People with a Exhibit & Experience Access can attend",
+      "People with an Experience Hall Exhibitor Pass can attend",
+      "People with a Full Access Registration Can Attend",
+      "People with a Full Access Supporter can attend",
+      "People with a Trade Exhibitor Pass can attend"
+    ]
+  },
+  {
+    "startTime": "2024-12-05T01:00:00Z",
+    "endTime": "2024-12-05T08:00:00Z",
+    "timezone": "JST",
+    "title": "Trade Exhibition",
+    "type": "Trade Exhibition",
+    "location": "Hall E, E Block, Level B2",
+    "speakers": "",
+    "tags": [
+      "People with a Enhanced Access can attend",
+      "People with a Exhibit & Experience Access can attend",
+      "People with an Experience Hall Exhibitor Pass can attend",
+      "People with a Full Access Registration Can Attend",
+      "People with a Full Access Supporter can attend",
+      "People with a Trade Exhibitor Pass can attend"
+    ]
+  },
+  {
+    "startTime": "2024-12-05T01:10:00Z",
+    "endTime": "2024-12-05T01:30:00Z",
+    "timezone": "JST",
+    "title": "Technical Papers Interactive Discussion",
+    "type": "Technical Papers",
+    "location": "Hall B5 Lobby, B Block, Level 5",
+    "speakers": "",
+    "tags": [
+      "People with a Full Access Registration Can Attend",
+      "People with a Enhanced Access can attend",
+      "This Session will be held in English Language"
+    ]
+  },
+  {
+    "startTime": "2024-12-05T01:30:00Z",
+    "endTime": "2024-12-05T02:30:00Z",
+    "timezone": "JST",
+    "title": "Yu Yu Hakusho: How Megalis Created the Show\u2019s Most Complex Shot",
+    "type": "Featured SessionProduction Session",
+    "location": "Hall B7 (2), B Block, Level 7",
+    "speakers": "Ian FailesRodrigo DorschKeita HoshinoRomain GuardiaBrian RiordanSheridan Steven",
+    "tags": [
+      "People with a Enhanced Access can attend",
+      "People with a Full Access Registration Can Attend",
+      "People with a Full Access Supporter can attend",
+      "This Session will be held in English Language",
+      "This Session will have AI Translation in Multi-Language"
+    ]
+  },
+  {
+    "startTime": "2024-12-05T01:33:00Z",
+    "endTime": "2024-12-05T02:06:00Z",
+    "timezone": "JST",
+    "title": "Anime production utilizing scalability of the cloud computing",
+    "type": "Exhibitor Talks",
+    "location": "G402, G Block, Level 4",
+    "speakers": "Masahide MiyakogawaTakeshi Okuya",
+    "tags": [
+      "People with a Enhanced Access can attend",
+      "People with a Exhibit & Experience Access can attend",
+      "People with an Experience Hall Exhibitor Pass can attend",
+      "People with a Full Access Registration Can Attend",
+      "People with a Full Access Supporter can attend",
+      "People with a Trade Exhibitor Pass can attend",
+      "This Session will be held in Japanese Language",
+      "This Session will be held in English Language"
+    ]
+  },
+  {
+    "startTime": "2024-12-05T01:45:00Z",
+    "endTime": "2024-12-05T02:55:00Z",
+    "timezone": "JST",
+    "title": "3D Printing, Manufacturing",
+    "type": "Technical Papers",
+    "location": "Hall B5 (1), B Block, Level 5",
+    "speakers": "Lin Lu",
+    "tags": [
+      "People with a Full Access Registration Can Attend",
+      "People with a Enhanced Access can attend",
+      "This Session will be held in English Language"
+    ]
+  },
+  {
+    "startTime": "2024-12-05T01:45:00Z",
+    "endTime": "2024-12-05T02:55:00Z",
+    "timezone": "JST",
+    "title": "Capture Me If You Can",
+    "type": "Technical Papers",
+    "location": "Hall B7 (1), B Block, Level 7",
+    "speakers": "Yuting Ye",
+    "tags": [
+      "People with a Full Access Registration Can Attend",
+      "People with a Enhanced Access can attend",
+      "This Session will be held in English Language"
+    ]
+  },
+  {
+    "startTime": "2024-12-05T01:45:00Z",
+    "endTime": "2024-12-05T02:55:00Z",
+    "timezone": "JST",
+    "title": "Going Fast: Accelerated Rendering",
+    "type": "Technical Papers",
+    "location": "Hall B5 (2), B Block, Level 5",
+    "speakers": "Manolis Savva",
+    "tags": [
+      "People with a Full Access Registration Can Attend",
+      "People with a Enhanced Access can attend",
+      "This Session will be held in English Language"
+    ]
+  },
+  {
+    "startTime": "2024-12-05T02:00:00Z",
+    "endTime": "2024-12-05T03:45:00Z",
+    "timezone": "JST",
+    "title": "Social Presence with Codec Avatars",
+    "type": "Courses",
+    "location": "G602, G Block, Level 6",
+    "speakers": "Julieta MartinezJavier RomeroShunsuke Saito",
+    "tags": [
+      "People with a Full Access Registration Can Attend",
+      "People with a Enhanced Access can attend",
+      "This Session will be held in English Language"
+    ]
+  },
+  {
+    "startTime": "2024-12-05T02:00:00Z",
+    "endTime": "2024-12-05T03:00:00Z",
+    "timezone": "JST",
+    "title": "The Impact of 3D Geospatial Technology and GeoAI on Digital Twins",
+    "type": "Birds of a Feather",
+    "location": "G407, G Block, Level 4",
+    "speakers": "Tamrat BelaynehJasmine Du",
+    "tags": [
+      "People with a Enhanced Access can attend",
+      "People with a Exhibit & Experience Access can attend",
+      "People with an Experience Hall Exhibitor Pass can attend",
+      "People with a Full Access Registration Can Attend",
+      "People with a Full Access Supporter can attend",
+      "People with a Trade Exhibitor Pass can attend",
+      "This Session will be held in English Language"
+    ]
+  },
+  {
+    "startTime": "2024-12-05T02:00:00Z",
+    "endTime": "2024-12-05T03:45:00Z",
+    "timezone": "JST",
+    "title": "Unlock the Future of AI in the Metaverse: A Hands-On Experience",
+    "type": "Courses",
+    "location": "G610, G Block, Level 6",
+    "speakers": "Megani RajendranMegani RajendranMegani RajendranAik Beng NgChek Tien TanFrank Yunqing Guan",
+    "tags": [
+      "People with a Full Access Registration Can Attend",
+      "People with a Enhanced Access can attend",
+      "This Session will be held in English Language"
+    ]
+  },
+  {
+    "startTime": "2024-12-05T02:00:00Z",
+    "endTime": "2024-12-05T03:00:00Z",
+    "timezone": "JST",
+    "title": "XR in Enterprise and Society of Japan",
+    "type": "Birds of a Feather",
+    "location": "G408, G Block, Level 4",
+    "speakers": "Chun Wei OoiSatomi Tokida",
+    "tags": [
+      "People with a Enhanced Access can attend",
+      "People with a Exhibit & Experience Access can attend",
+      "People with an Experience Hall Exhibitor Pass can attend",
+      "People with a Full Access Registration Can Attend",
+      "People with a Full Access Supporter can attend",
+      "People with a Trade Exhibitor Pass can attend",
+      "This Session will be held in English Language"
+    ]
+  },
+  {
+    "startTime": "2024-12-05T02:06:00Z",
+    "endTime": "2024-12-05T02:40:00Z",
+    "timezone": "JST",
+    "title": "Fireside Chat with SAFEHOUSE: How AWS Cloud Powers Their Unreal Engine Production",
+    "type": "Exhibitor Talks",
+    "location": "G402, G Block, Level 4",
+    "speakers": "Satomi NakaharaWojciech Sienkiewicz",
+    "tags": [
+      "People with a Enhanced Access can attend",
+      "People with a Exhibit & Experience Access can attend",
+      "People with an Experience Hall Exhibitor Pass can attend",
+      "People with a Full Access Registration Can Attend",
+      "People with a Full Access Supporter can attend",
+      "People with a Trade Exhibitor Pass can attend",
+      "This Session will be held in Japanese Language",
+      "This Session will be held in English Language"
+    ]
+  },
+  {
+    "startTime": "2024-12-05T02:15:00Z",
+    "endTime": "2024-12-05T03:30:00Z",
+    "timezone": "JST",
+    "title": "Designing Sensory Feedback and Perception Enhancement [Emerging Technologies Talk]",
+    "type": "Emerging Technologies",
+    "location": "Hall E - Talk Stage, E Block, Level B2",
+    "speakers": "",
+    "tags": [
+      "People with a Enhanced Access can attend",
+      "People with a Exhibit & Experience Access can attend",
+      "People with an Experience Hall Exhibitor Pass can attend",
+      "People with a Full Access Registration Can Attend",
+      "People with a Full Access Supporter can attend",
+      "People with a Trade Exhibitor Pass can attend",
+      "This Session will be held in English Language"
+    ]
+  },
+  {
+    "startTime": "2024-12-05T02:15:00Z",
+    "endTime": "2024-12-05T03:15:00Z",
+    "timezone": "JST",
+    "title": "Shaping Narrative Together: The Convergence of TV and Video Games",
+    "type": "Games",
+    "location": "G502, G Block, Level 5",
+    "speakers": "Yuko Johnson",
+    "tags": [
+      "People with a Enhanced Access can attend",
+      "People with a Exhibit & Experience Access can attend",
+      "People with an Experience Hall Exhibitor Pass can attend",
+      "People with a Full Access Registration Can Attend",
+      "People with a Full Access Supporter can attend",
+      "People with a Trade Exhibitor Pass can attend",
+      "This Session will be held in English Language"
+    ]
+  },
+  {
+    "startTime": "2024-12-05T02:15:00Z",
+    "endTime": "2024-12-05T03:15:00Z",
+    "timezone": "JST",
+    "title": "Tokyo Cultural Program - Calligraphy Experience",
+    "type": "Tokyo Cultural Programs",
+    "location": "G505, G Block, Level 5",
+    "speakers": "",
+    "tags": [
+      "People with a Enhanced Access can attend",
+      "People with a Exhibit & Experience Access can attend",
+      "People with an Experience Hall Exhibitor Pass can attend",
+      "People with a Full Access Registration Can Attend",
+      "People with a Full Access Supporter can attend",
+      "People with a Trade Exhibitor Pass can attend"
+    ]
+  },
+  {
+    "startTime": "2024-12-05T02:20:00Z",
+    "endTime": "2024-12-05T03:00:00Z",
+    "timezone": "JST",
+    "title": "Image-Based Reconstruction",
+    "type": "Technical Communications",
+    "location": "G510, G Block, Level 5",
+    "speakers": "Kaizhang Kang",
+    "tags": [
+      "People with a Full Access Registration Can Attend",
+      "People with a Enhanced Access can attend",
+      "This Session will be held in English Language"
+    ]
+  },
+  {
+    "startTime": "2024-12-05T02:45:00Z",
+    "endTime": "2024-12-05T03:45:00Z",
+    "timezone": "JST",
+    "title": "From the Arctic to the Screen: Crafting Environments and Visual Effects for The Last Airbender",
+    "type": "Featured SessionProduction Session",
+    "location": "Hall B7 (2), B Block, Level 7",
+    "speakers": "Niklas Jacobson",
+    "tags": [
+      "People with a Enhanced Access can attend",
+      "People with a Full Access Registration Can Attend",
+      "People with a Full Access Supporter can attend",
+      "This Session will be held in English Language",
+      "This Session will have AI Translation in Multi-Language"
+    ]
+  },
+  {
+    "startTime": "2024-12-05T02:55:00Z",
+    "endTime": "2024-12-05T03:15:00Z",
+    "timezone": "JST",
+    "title": "Technical Papers Interactive Discussion",
+    "type": "Technical Papers",
+    "location": "Hall B5 Lobby, B Block, Level 5",
+    "speakers": "",
+    "tags": [
+      "People with a Full Access Registration Can Attend",
+      "People with a Enhanced Access can attend",
+      "This Session will be held in English Language"
+    ]
+  },
+  {
+    "startTime": "2024-12-05T04:00:00Z",
+    "endTime": "2024-12-05T05:00:00Z",
+    "timezone": "JST",
+    "title": "ACM SIGGRAPH History Archive: Progress, Goals and Challenges",
+    "type": "Birds of a Feather",
+    "location": "G408, G Block, Level 4",
+    "speakers": "Bonnie MitchellAsheesh Gulati",
+    "tags": [
+      "People with a Enhanced Access can attend",
+      "People with a Exhibit & Experience Access can attend",
+      "People with an Experience Hall Exhibitor Pass can attend",
+      "People with a Full Access Registration Can Attend",
+      "People with a Full Access Supporter can attend",
+      "People with a Trade Exhibitor Pass can attend",
+      "This Session will be held in English Language"
+    ]
+  },
+  {
+    "startTime": "2024-12-05T04:00:00Z",
+    "endTime": "2024-12-05T04:20:00Z",
+    "timezone": "JST",
+    "title": "An Eye for an AI: Evaluating GPT-4o's Visual Perception Skills and Geometric Reasoning Skills Using Computer Graphics Questions",
+    "type": "Educator's Forum",
+    "location": "G502, G Block, Level 5",
+    "speakers": "Tony Haoran FengPaul DennyBurkhard C. W\u00fcnscheAndrew Luxton-ReillyJacqueline Whalley",
+    "tags": [
+      "People with a Enhanced Access can attend",
+      "People with a Full Access Registration Can Attend",
+      "People with a Full Access Supporter can attend",
+      "This Session will be held in English Language"
+    ]
+  },
+  {
+    "startTime": "2024-12-05T04:00:00Z",
+    "endTime": "2024-12-05T06:00:00Z",
+    "timezone": "JST",
+    "title": "ANIMINS project: Developing AI-based creator\u2019s support tools for Anime production (In Japanese) \u30a2\u30cb\u30e1\u5236\u4f5c\u3068AI\u652f\u63f4\u6280\u8853\u306e\u53ef\u80fd\u6027",
+    "type": "Exhibitor Talks",
+    "location": "Hall B7 (2), B Block, Level 7",
+    "speakers": "Tatsuo YotsukuraXin Zhang",
+    "tags": [
+      "People with a Enhanced Access can attend",
+      "People with a Exhibit & Experience Access can attend",
+      "People with an Experience Hall Exhibitor Pass can attend",
+      "People with a Full Access Registration Can Attend",
+      "People with a Full Access Supporter can attend",
+      "People with a Trade Exhibitor Pass can attend",
+      "This Session will be held in Japanese Language",
+      "This Session will have AI Translation in Multi-Language"
+    ]
+  },
+  {
+    "startTime": "2024-12-05T04:00:00Z",
+    "endTime": "2024-12-05T05:00:00Z",
+    "timezone": "JST",
+    "title": "Biology",
+    "type": "Art Papers",
+    "location": "G405, G Block, Level 4",
+    "speakers": "Kian Peng Ong",
+    "tags": [
+      "People with a Enhanced Access can attend",
+      "People with a Full Access Registration Can Attend",
+      "People with a Full Access Supporter can attend",
+      "This Session will be held in English Language"
+    ]
+  },
+  {
+    "startTime": "2024-12-05T04:00:00Z",
+    "endTime": "2024-12-05T05:10:00Z",
+    "timezone": "JST",
+    "title": "Characters and Crowds",
+    "type": "Technical Papers",
+    "location": "Hall B7 (1), B Block, Level 7",
+    "speakers": "Yi Zhou",
+    "tags": [
+      "People with a Full Access Registration Can Attend",
+      "People with a Enhanced Access can attend",
+      "This Session will be held in English Language"
+    ]
+  },
+  {
+    "startTime": "2024-12-05T04:00:00Z",
+    "endTime": "2024-12-05T05:00:00Z",
+    "timezone": "JST",
+    "title": "Immersive Visualisation for Science, Research, Art and Digital Twins Applications",
+    "type": "Birds of a Feather",
+    "location": "G407, G Block, Level 4",
+    "speakers": "Tomasz Bednarz",
+    "tags": [
+      "People with a Enhanced Access can attend",
+      "People with a Exhibit & Experience Access can attend",
+      "People with an Experience Hall Exhibitor Pass can attend",
+      "People with a Full Access Registration Can Attend",
+      "People with a Full Access Supporter can attend",
+      "People with a Trade Exhibitor Pass can attend",
+      "This Session will be held in English Language"
+    ]
+  },
+  {
+    "startTime": "2024-12-05T04:00:00Z",
+    "endTime": "2024-12-05T05:00:00Z",
+    "timezone": "JST",
+    "title": "Live Drawing: Lines for Communication",
+    "type": "Games",
+    "location": "Hall E - Talk Stage, E Block, Level B2",
+    "speakers": "Masahiro Ito",
+    "tags": [
+      "People with a Enhanced Access can attend",
+      "People with a Exhibit & Experience Access can attend",
+      "People with an Experience Hall Exhibitor Pass can attend",
+      "People with a Full Access Registration Can Attend",
+      "People with a Full Access Supporter can attend",
+      "People with a Trade Exhibitor Pass can attend",
+      "This Session will be held in Japanese Language",
+      "This Session will have AI Translation in Multi-Language"
+    ]
+  },
+  {
+    "startTime": "2024-12-05T04:00:00Z",
+    "endTime": "2024-12-05T05:10:00Z",
+    "timezone": "JST",
+    "title": "Neural Shapes",
+    "type": "Technical Papers",
+    "location": "Hall B5 (1), B Block, Level 5",
+    "speakers": "Noam Aigerman",
+    "tags": [
+      "People with a Full Access Registration Can Attend",
+      "People with a Enhanced Access can attend",
+      "This Session will be held in English Language"
+    ]
+  },
+  {
+    "startTime": "2024-12-05T04:00:00Z",
+    "endTime": "2024-12-05T05:00:00Z",
+    "timezone": "JST",
+    "title": "Posters Presentation",
+    "type": "Poster",
+    "location": "Lobby Gallery (1) & (2), G Block, Level B1",
+    "speakers": "",
+    "tags": [
+      "People with a Enhanced Access can attend",
+      "People with a Exhibit & Experience Access can attend",
+      "People with an Experience Hall Exhibitor Pass can attend",
+      "People with a Full Access Registration Can Attend",
+      "People with a Full Access Supporter can attend",
+      "People with a Trade Exhibitor Pass can attend"
+    ]
+  },
+  {
+    "startTime": "2024-12-05T04:00:00Z",
+    "endTime": "2024-12-05T05:10:00Z",
+    "timezone": "JST",
+    "title": "Sampling and Light Transport",
+    "type": "Technical Papers",
+    "location": "Hall B5 (2), B Block, Level 5",
+    "speakers": "Seungyong Lee",
+    "tags": [
+      "People with a Full Access Registration Can Attend",
+      "People with a Enhanced Access can attend",
+      "This Session will be held in English Language"
+    ]
+  },
+  {
+    "startTime": "2024-12-05T04:00:00Z",
+    "endTime": "2024-12-05T04:50:00Z",
+    "timezone": "JST",
+    "title": "Stylization & Evaluation",
+    "type": "Technical Communications",
+    "location": "G510, G Block, Level 5",
+    "speakers": "Krishna Mullia",
+    "tags": [
+      "People with a Full Access Registration Can Attend",
+      "People with a Enhanced Access can attend",
+      "This Session will be held in English Language"
+    ]
+  },
+  {
+    "startTime": "2024-12-05T04:20:00Z",
+    "endTime": "2024-12-05T04:40:00Z",
+    "timezone": "JST",
+    "title": "Embodied AI-Guided Interactive Digital Teacher for Education",
+    "type": "Educator's Forum",
+    "location": "G502, G Block, Level 5",
+    "speakers": "Zhuoran ZhaoZhizhuo YinJia SunPan Hui",
+    "tags": [
+      "People with a Enhanced Access can attend",
+      "People with a Full Access Registration Can Attend",
+      "People with a Full Access Supporter can attend",
+      "This Session will be held in English Language"
+    ]
+  },
+  {
+    "startTime": "2024-12-05T04:30:00Z",
+    "endTime": "2024-12-05T05:30:00Z",
+    "timezone": "JST",
+    "title": "WAR IS OVER! W\u0113t\u0101 FX Gets Animated",
+    "type": "Featured SessionProduction Session",
+    "location": "Hall C, C Block, Level 4",
+    "speakers": "Keith MillerAidan Martin",
+    "tags": [
+      "People with a Enhanced Access can attend",
+      "People with a Full Access Registration Can Attend",
+      "People with a Full Access Supporter can attend",
+      "This Session will be held in English Language",
+      "This Session will have Simultaneous Translation from English to Japanese"
+    ]
+  },
+  {
+    "startTime": "2024-12-05T04:40:00Z",
+    "endTime": "2024-12-05T05:00:00Z",
+    "timezone": "JST",
+    "title": "Plumes and Pixels: Bridging Digital and Traditional Art in SciArt Education",
+    "type": "Educator's Forum",
+    "location": "G502, G Block, Level 5",
+    "speakers": "Emil PolyakKathi MartinRghad BalkhyoorArefeh AhmadiDarren Woodland, Jr.Varun Mahadev",
+    "tags": [
+      "People with a Enhanced Access can attend",
+      "People with a Full Access Registration Can Attend",
+      "People with a Full Access Supporter can attend",
+      "This Session will be held in English Language"
+    ]
+  },
+  {
+    "startTime": "2024-12-05T04:45:00Z",
+    "endTime": "2024-12-05T05:45:00Z",
+    "timezone": "JST",
+    "title": "Tokyo Cultural Program - Calligraphy Experience",
+    "type": "Tokyo Cultural Programs",
+    "location": "G505, G Block, Level 5",
+    "speakers": "",
+    "tags": [
+      "People with a Enhanced Access can attend",
+      "People with a Exhibit & Experience Access can attend",
+      "People with an Experience Hall Exhibitor Pass can attend",
+      "People with a Full Access Registration Can Attend",
+      "People with a Full Access Supporter can attend",
+      "People with a Trade Exhibitor Pass can attend"
+    ]
+  },
+  {
+    "startTime": "2024-12-05T05:00:00Z",
+    "endTime": "2024-12-05T08:45:00Z",
+    "timezone": "JST",
+    "title": "Computational Medical XR (CMXR): Pioneering the Future of Healthcare Through Computational Medicine and Extended Reality",
+    "type": "Courses",
+    "location": "G602, G Block, Level 6",
+    "speakers": "George PapagiannakisGeorge PapagiannakisOliver KannapeGeorge Papagiannakis",
+    "tags": [
+      "People with a Full Access Registration Can Attend",
+      "People with a Enhanced Access can attend",
+      "This Session will be held in English Language"
+    ]
+  },
+  {
+    "startTime": "2024-12-05T05:00:00Z",
+    "endTime": "2024-12-05T08:45:00Z",
+    "timezone": "JST",
+    "title": "Introduction to Generative Machine Learning",
+    "type": "Courses",
+    "location": "G610, G Block, Level 6",
+    "speakers": "Rajesh SharmaRajesh SharmaMia TangRajesh Sharma",
+    "tags": [
+      "People with a Full Access Registration Can Attend",
+      "People with a Enhanced Access can attend",
+      "This Session will be held in English Language"
+    ]
+  },
+  {
+    "startTime": "2024-12-05T05:00:00Z",
+    "endTime": "2024-12-05T06:00:00Z",
+    "timezone": "JST",
+    "title": "Introduction to Moho. 2D innovation from animators to animators",
+    "type": "Student Volunteer",
+    "location": "G504, G Block, Level 5",
+    "speakers": "Fahim NiazV\u00edctor Paredes",
+    "tags": [
+      "People with a Full Access Registration Can Attend",
+      "This Session will be held in English Language"
+    ]
+  },
+  {
+    "startTime": "2024-12-05T05:00:00Z",
+    "endTime": "2024-12-05T05:15:00Z",
+    "timezone": "JST",
+    "title": "Teaching Image Composition with Ukiyo-e and Digital Painting Application",
+    "type": "Educator's Forum",
+    "location": "G502, G Block, Level 5",
+    "speakers": "Miho Aoki",
+    "tags": [
+      "People with a Enhanced Access can attend",
+      "People with a Full Access Registration Can Attend",
+      "People with a Full Access Supporter can attend",
+      "This Session will be held in English Language"
+    ]
+  },
+  {
+    "startTime": "2024-12-05T05:10:00Z",
+    "endTime": "2024-12-05T06:10:00Z",
+    "timezone": "JST",
+    "title": "Image Generation & Editing",
+    "type": "Technical Communications",
+    "location": "G510, G Block, Level 5",
+    "speakers": "Xi Yang",
+    "tags": [
+      "People with a Full Access Registration Can Attend",
+      "People with a Enhanced Access can attend",
+      "This Session will be held in English Language"
+    ]
+  },
+  {
+    "startTime": "2024-12-05T05:10:00Z",
+    "endTime": "2024-12-05T05:30:00Z",
+    "timezone": "JST",
+    "title": "Technical Papers Interactive Discussion",
+    "type": "Technical Papers",
+    "location": "Hall B5 Lobby, B Block, Level 5",
+    "speakers": "",
+    "tags": [
+      "People with a Full Access Registration Can Attend",
+      "People with a Enhanced Access can attend",
+      "This Session will be held in English Language"
+    ]
+  },
+  {
+    "startTime": "2024-12-05T05:15:00Z",
+    "endTime": "2024-12-05T06:15:00Z",
+    "timezone": "JST",
+    "title": "OpenXR: Transforming the Future of Cross-Platform",
+    "type": "Birds of a Feather",
+    "location": "G407, G Block, Level 4",
+    "speakers": "Neil TrevettJian ZhangPraveen BabuJimmy AlamparambilJane Tian",
+    "tags": [
+      "People with a Enhanced Access can attend",
+      "People with a Exhibit & Experience Access can attend",
+      "People with an Experience Hall Exhibitor Pass can attend",
+      "People with a Full Access Registration Can Attend",
+      "People with a Full Access Supporter can attend",
+      "People with a Trade Exhibitor Pass can attend",
+      "This Session will be held in English Language"
+    ]
+  },
+  {
+    "startTime": "2024-12-05T05:20:00Z",
+    "endTime": "2024-12-05T06:20:00Z",
+    "timezone": "JST",
+    "title": "Heritage",
+    "type": "Art Papers",
+    "location": "G405, G Block, Level 4",
+    "speakers": "Kian Peng Ong",
+    "tags": [
+      "People with a Enhanced Access can attend",
+      "People with a Full Access Registration Can Attend",
+      "People with a Full Access Supporter can attend",
+      "This Session will be held in English Language"
+    ]
+  },
+  {
+    "startTime": "2024-12-05T05:40:00Z",
+    "endTime": "2024-12-05T06:00:00Z",
+    "timezone": "JST",
+    "title": "Study with Confucius: An AI-Based Immersive Educational Game with Multiple Educational Modes",
+    "type": "Educator's Forum",
+    "location": "G502, G Block, Level 5",
+    "speakers": "Hanzhong LuoFengsen GaoKe FangDejian LiuZiyun LinWai Kin (Victor) Chan",
+    "tags": [
+      "People with a Enhanced Access can attend",
+      "People with a Full Access Registration Can Attend",
+      "People with a Full Access Supporter can attend",
+      "This Session will be held in English Language"
+    ]
+  },
+  {
+    "startTime": "2024-12-05T05:45:00Z",
+    "endTime": "2024-12-05T06:55:00Z",
+    "timezone": "JST",
+    "title": "Diffusing Your Videos",
+    "type": "Technical Papers",
+    "location": "Hall B5 (2), B Block, Level 5",
+    "speakers": "Nanxuan Zhao",
+    "tags": [
+      "People with a Full Access Registration Can Attend",
+      "People with a Enhanced Access can attend",
+      "This Session will be held in English Language"
+    ]
+  },
+  {
+    "startTime": "2024-12-05T05:45:00Z",
+    "endTime": "2024-12-05T06:55:00Z",
+    "timezone": "JST",
+    "title": "Fill the Gap: What Happened In-between?",
+    "type": "Technical Papers",
+    "location": "Hall B7 (1), B Block, Level 7",
+    "speakers": "Changjian Li",
+    "tags": [
+      "People with a Full Access Registration Can Attend",
+      "People with a Enhanced Access can attend",
+      "This Session will be held in English Language"
+    ]
+  },
+  {
+    "startTime": "2024-12-05T05:45:00Z",
+    "endTime": "2024-12-05T06:55:00Z",
+    "timezone": "JST",
+    "title": "Mesh Processing Unleashed",
+    "type": "Technical Papers",
+    "location": "Hall B5 (1), B Block, Level 5",
+    "speakers": "Mirela Ben-Chen",
+    "tags": [
+      "People with a Full Access Registration Can Attend",
+      "People with a Enhanced Access can attend",
+      "This Session will be held in English Language"
+    ]
+  },
+  {
+    "startTime": "2024-12-05T05:45:00Z",
+    "endTime": "2024-12-05T06:45:00Z",
+    "timezone": "JST",
+    "title": "VFX in Shogun: Creating a Large-Scale Landslide, Environments and Water Simulations",
+    "type": "Featured SessionProduction Session",
+    "location": "Hall C, C Block, Level 4",
+    "speakers": "Philip Engstr\u00f6m",
+    "tags": [
+      "People with a Enhanced Access can attend",
+      "People with a Full Access Registration Can Attend",
+      "People with a Full Access Supporter can attend",
+      "This Session will be held in English Language",
+      "This Session will have Simultaneous Translation from English to Japanese"
+    ]
+  },
+  {
+    "startTime": "2024-12-05T06:00:00Z",
+    "endTime": "2024-12-05T06:20:00Z",
+    "timezone": "JST",
+    "title": "A Pedagogical Workflow for Interconnected Learning: Integrating Motion Capture in Animation, Visual Effects, and Game Design",
+    "type": "Educator's Forum",
+    "location": "G502, G Block, Level 5",
+    "speakers": "Hossein NajafiJason KennedyEmily RamsayMasaya TodorokiGregory Bennett",
+    "tags": [
+      "People with a Enhanced Access can attend",
+      "People with a Full Access Registration Can Attend",
+      "People with a Full Access Supporter can attend",
+      "This Session will be held in English Language"
+    ]
+  },
+  {
+    "startTime": "2024-12-05T06:00:00Z",
+    "endTime": "2024-12-05T07:00:00Z",
+    "timezone": "JST",
+    "title": "Tokyo Cultural Program - Calligraphy Experience",
+    "type": "Tokyo Cultural Programs",
+    "location": "G505, G Block, Level 5",
+    "speakers": "",
+    "tags": [
+      "People with a Enhanced Access can attend",
+      "People with a Exhibit & Experience Access can attend",
+      "People with an Experience Hall Exhibitor Pass can attend",
+      "People with a Full Access Registration Can Attend",
+      "People with a Full Access Supporter can attend",
+      "People with a Trade Exhibitor Pass can attend"
+    ]
+  },
+  {
+    "startTime": "2024-12-05T06:10:00Z",
+    "endTime": "2024-12-05T06:15:00Z",
+    "timezone": "JST",
+    "title": "Technical Communications Awards",
+    "type": "Key Events, Technical Communications",
+    "location": "G510, G Block, Level 5",
+    "speakers": "",
+    "tags": [
+      "People with a Full Access Registration Can Attend",
+      "People with a Enhanced Access can attend",
+      "This Session will be held in English Language"
+    ]
+  },
+  {
+    "startTime": "2024-12-05T06:15:00Z",
+    "endTime": "2024-12-05T07:15:00Z",
+    "timezone": "JST",
+    "title": "Intelligent Immersification in the Metaverse (I2M) : Advancing Our Reality",
+    "type": "Birds of a Feather",
+    "location": "G408, G Block, Level 4",
+    "speakers": "Megani RajendranChek Tien TanAik Beng Ng",
+    "tags": [
+      "People with a Enhanced Access can attend",
+      "People with a Exhibit & Experience Access can attend",
+      "People with an Experience Hall Exhibitor Pass can attend",
+      "People with a Full Access Registration Can Attend",
+      "People with a Full Access Supporter can attend",
+      "People with a Trade Exhibitor Pass can attend",
+      "This Session will be held in English Language"
+    ]
+  },
+  {
+    "startTime": "2024-12-05T06:15:00Z",
+    "endTime": "2024-12-05T07:15:00Z",
+    "timezone": "JST",
+    "title": "Live Action Previs Production for Kingdom and Shin Kamen Rider",
+    "type": "Student Volunteer",
+    "location": "G504, G Block, Level 5",
+    "speakers": "",
+    "tags": [
+      "People with a Full Access Registration Can Attend",
+      "This Session will be held in English Language"
+    ]
+  },
+  {
+    "startTime": "2024-12-05T06:20:00Z",
+    "endTime": "2024-12-05T07:20:00Z",
+    "timezone": "JST",
+    "title": "Bring Your Bunny (or Something) 03: Fabrication Meet-Up",
+    "type": "Birds of a Feather",
+    "location": "G510, G Block, Level 5",
+    "speakers": "Takeo IgarashiMaria LarssonKenji TojoKoya Narumi",
+    "tags": [
+      "People with a Enhanced Access can attend",
+      "People with a Exhibit & Experience Access can attend",
+      "People with an Experience Hall Exhibitor Pass can attend",
+      "People with a Full Access Registration Can Attend",
+      "People with a Full Access Supporter can attend",
+      "People with a Trade Exhibitor Pass can attend",
+      "This Session will be held in English Language"
+    ]
+  },
+  {
+    "startTime": "2024-12-05T06:20:00Z",
+    "endTime": "2024-12-05T06:40:00Z",
+    "timezone": "JST",
+    "title": "Projects and Portfolios \u2014 An Educator's Reflections on the Summative Assessments in a Game Programming Course",
+    "type": "Educator's Forum",
+    "location": "G502, G Block, Level 5",
+    "speakers": "Steffan HooperBurkhard W\u00fcnscheStefan MarksAndrew Luxton-ReillyPaul Denny",
+    "tags": [
+      "People with a Enhanced Access can attend",
+      "People with a Full Access Registration Can Attend",
+      "People with a Full Access Supporter can attend",
+      "This Session will be held in English Language"
+    ]
+  },
+  {
+    "startTime": "2024-12-05T06:30:00Z",
+    "endTime": "2024-12-05T08:00:00Z",
+    "timezone": "JST",
+    "title": "Production Meet-Up",
+    "type": "Production Meet-Up",
+    "location": "Hall E - Talk Stage, E Block, Level B2",
+    "speakers": "",
+    "tags": [
+      "People with a Enhanced Access can attend",
+      "People with a Exhibit & Experience Access can attend",
+      "People with an Experience Hall Exhibitor Pass can attend",
+      "People with a Full Access Registration Can Attend",
+      "People with a Full Access Supporter can attend",
+      "People with a Trade Exhibitor Pass can attend",
+      "This Session will be held in Japanese Language"
+    ]
+  },
+  {
+    "startTime": "2024-12-05T06:30:00Z",
+    "endTime": "2024-12-05T08:30:00Z",
+    "timezone": "JST",
+    "title": "Vulkan: Forging Ahead",
+    "type": "Birds of a Feather",
+    "location": "G407, G Block, Level 4",
+    "speakers": "Spencer FrickeShannon WoodsRalph PotterAndy KingCai KangyingKen Shan Yi Zhang",
+    "tags": [
+      "People with a Enhanced Access can attend",
+      "People with a Exhibit & Experience Access can attend",
+      "People with an Experience Hall Exhibitor Pass can attend",
+      "People with a Full Access Registration Can Attend",
+      "People with a Full Access Supporter can attend",
+      "People with a Trade Exhibitor Pass can attend",
+      "This Session will be held in English Language"
+    ]
+  },
+  {
+    "startTime": "2024-12-05T06:40:00Z",
+    "endTime": "2024-12-05T07:00:00Z",
+    "timezone": "JST",
+    "title": "Sustainable VFX - An Educational Challenge",
+    "type": "Educator's Forum",
+    "location": "G502, G Block, Level 5",
+    "speakers": "Volker HelzleAlexander KreischeSimon SpielmannJonas Trottnow",
+    "tags": [
+      "People with a Enhanced Access can attend",
+      "People with a Full Access Registration Can Attend",
+      "People with a Full Access Supporter can attend",
+      "This Session will be held in English Language"
+    ]
+  },
+  {
+    "startTime": "2024-12-05T06:40:00Z",
+    "endTime": "2024-12-05T07:40:00Z",
+    "timezone": "JST",
+    "title": "Writing & Drawing",
+    "type": "Art Papers",
+    "location": "G405, G Block, Level 4",
+    "speakers": "Victoria Szabo",
+    "tags": [
+      "People with a Enhanced Access can attend",
+      "People with a Full Access Registration Can Attend",
+      "People with a Full Access Supporter can attend",
+      "This Session will be held in English Language"
+    ]
+  },
+  {
+    "startTime": "2024-12-05T06:55:00Z",
+    "endTime": "2024-12-05T07:15:00Z",
+    "timezone": "JST",
+    "title": "Technical Papers Interactive Discussion",
+    "type": "Technical Papers",
+    "location": "Hall B5 Lobby, B Block, Level 5",
+    "speakers": "",
+    "tags": [
+      "People with a Full Access Registration Can Attend",
+      "People with a Enhanced Access can attend",
+      "This Session will be held in English Language"
+    ]
+  },
+  {
+    "startTime": "2024-12-05T07:00:00Z",
+    "endTime": "2024-12-05T09:00:00Z",
+    "timezone": "JST",
+    "title": "Computer Animation Festival - Electronic Theater",
+    "type": "Computer Animation Festival",
+    "location": "Hall C, C Block, Level 4",
+    "speakers": "",
+    "tags": [
+      "People with a Enhanced Access can attend",
+      "People with a Full Access Registration Can Attend",
+      "People with a Full Access Supporter can attend"
+    ]
+  },
+  {
+    "startTime": "2024-12-05T07:00:00Z",
+    "endTime": "2024-12-05T08:00:00Z",
+    "timezone": "JST",
+    "title": "Emerging Technologies Reception (By Invite Only)",
+    "type": "Emerging Technologies",
+    "location": "Hall E, E Block, Level B2",
+    "speakers": "",
+    "tags": [
+      "People with a Enhanced Access can attend",
+      "People with a Exhibit & Experience Access can attend",
+      "People with an Experience Hall Exhibitor Pass can attend",
+      "People with a Full Access Registration Can Attend",
+      "People with a Full Access Supporter can attend",
+      "People with a Trade Exhibitor Pass can attend",
+      "This Session will be held in English Language"
+    ]
+  },
+  {
+    "startTime": "2024-12-05T07:00:00Z",
+    "endTime": "2024-12-05T08:30:00Z",
+    "timezone": "JST",
+    "title": "Integrating Tradition and Innovation: The Animation Flow of MAPPA [In Japanese]",
+    "type": "Featured SessionProduction Session",
+    "location": "Hall B7 (2), B Block, Level 7",
+    "speakers": "Yusuke TannawaMotoi OkunoSubaru Ikeda",
+    "tags": [
+      "People with a Enhanced Access can attend",
+      "People with a Full Access Registration Can Attend",
+      "People with a Full Access Supporter can attend",
+      "This Session will be held in Japanese Language",
+      "This Session will have Simultaneous Translation from Japanese to English"
+    ]
+  },
+  {
+    "startTime": "2024-12-05T07:30:00Z",
+    "endTime": "2024-12-05T08:30:00Z",
+    "timezone": "JST",
+    "title": "Cooperation Practices between the Digital Game Industry and Universities in the Context of Eastern Aesthetics",
+    "type": "Educator's Forum",
+    "location": "G502, G Block, Level 5",
+    "speakers": "xuejun xuanLei WangXiaoyun ZhangXiaoyuan GuYongcheng LiuYuanyuan Tong",
+    "tags": [
+      "People with a Enhanced Access can attend",
+      "People with a Full Access Registration Can Attend",
+      "People with a Full Access Supporter can attend",
+      "This Session will be held in English Language"
+    ]
+  },
+  {
+    "startTime": "2024-12-05T07:30:00Z",
+    "endTime": "2024-12-05T08:40:00Z",
+    "timezone": "JST",
+    "title": "Diffuse and Conquer",
+    "type": "Technical Papers",
+    "location": "Hall B5 (2), B Block, Level 5",
+    "speakers": "Michael Rubinstein",
+    "tags": [
+      "People with a Full Access Registration Can Attend",
+      "People with a Enhanced Access can attend",
+      "This Session will be held in English Language"
+    ]
+  },
+  {
+    "startTime": "2024-12-05T07:30:00Z",
+    "endTime": "2024-12-05T08:30:00Z",
+    "timezone": "JST",
+    "title": "Digging into the Technical Papers (In Japanese) \u300e\u30c6\u30af\u30cb\u30ab\u30eb\u30da\u30fc\u30d1\u30fc\u3092\u77e5\u308b\u300f(DAY3)",
+    "type": "Birds of a Feather",
+    "location": "G510, G Block, Level 5",
+    "speakers": "Yuki IgarashiHideki Todo",
+    "tags": [
+      "People with a Enhanced Access can attend",
+      "People with a Exhibit & Experience Access can attend",
+      "People with an Experience Hall Exhibitor Pass can attend",
+      "People with a Full Access Registration Can Attend",
+      "People with a Full Access Supporter can attend",
+      "People with a Trade Exhibitor Pass can attend",
+      "This Session will be held in Japanese Language",
+      "This Session will be held in English Language"
+    ]
+  },
+  {
+    "startTime": "2024-12-05T07:30:00Z",
+    "endTime": "2024-12-05T08:40:00Z",
+    "timezone": "JST",
+    "title": "Generate It All: Scenes, Humans, LEGOs",
+    "type": "Technical Papers",
+    "location": "Hall B5 (1), B Block, Level 5",
+    "speakers": "Manolis Savva",
+    "tags": [
+      "People with a Full Access Registration Can Attend",
+      "People with a Enhanced Access can attend",
+      "This Session will be held in English Language"
+    ]
+  },
+  {
+    "startTime": "2024-12-05T07:30:00Z",
+    "endTime": "2024-12-05T08:40:00Z",
+    "timezone": "JST",
+    "title": "Talking Heads and Moving Faces",
+    "type": "Technical Papers",
+    "location": "Hall B7 (1), B Block, Level 7",
+    "speakers": "Hongbo Fu",
+    "tags": [
+      "People with a Full Access Registration Can Attend",
+      "People with a Enhanced Access can attend",
+      "This Session will be held in English Language"
+    ]
+  },
+  {
+    "startTime": "2024-12-05T07:45:00Z",
+    "endTime": "2024-12-05T08:45:00Z",
+    "timezone": "JST",
+    "title": "Anime International Production 101",
+    "type": "Student Volunteer",
+    "location": "G504, G Block, Level 5",
+    "speakers": "",
+    "tags": [
+      "People with a Full Access Registration Can Attend",
+      "This Session will be held in English Language"
+    ]
+  },
+  {
+    "startTime": "2024-12-05T07:45:00Z",
+    "endTime": "2024-12-05T08:45:00Z",
+    "timezone": "JST",
+    "title": "Bold Moves & Big Breaks: Crafting Your Career in Animation",
+    "type": "Birds of a Feather",
+    "location": "G408, G Block, Level 4",
+    "speakers": "Archana Senthilkumar",
+    "tags": [
+      "People with a Enhanced Access can attend",
+      "People with a Exhibit & Experience Access can attend",
+      "People with an Experience Hall Exhibitor Pass can attend",
+      "People with a Full Access Registration Can Attend",
+      "People with a Full Access Supporter can attend",
+      "People with a Trade Exhibitor Pass can attend",
+      "This Session will be held in English Language"
+    ]
+  },
+  {
+    "startTime": "2024-12-05T08:00:00Z",
+    "endTime": "2024-12-05T09:00:00Z",
+    "timezone": "JST",
+    "title": "Recollection",
+    "type": "Art Papers",
+    "location": "G405, G Block, Level 4",
+    "speakers": "Victoria Szabo",
+    "tags": [
+      "People with a Enhanced Access can attend",
+      "People with a Full Access Registration Can Attend",
+      "People with a Full Access Supporter can attend",
+      "This Session will be held in English Language"
+    ]
+  },
+  {
+    "startTime": "2024-12-05T08:30:00Z",
+    "endTime": "2024-12-05T09:30:00Z",
+    "timezone": "JST",
+    "title": "Sake Party",
+    "type": "Key Events",
+    "location": "Hall E - Talk Stage, E Block, Level B2",
+    "speakers": "",
+    "tags": [
+      "People with a Enhanced Access can attend",
+      "People with a Exhibit & Experience Access can attend",
+      "People with an Experience Hall Exhibitor Pass can attend",
+      "People with a Full Access Registration Can Attend",
+      "People with a Full Access Supporter can attend",
+      "People with a Trade Exhibitor Pass can attend"
+    ]
+  },
+  {
+    "startTime": "2024-12-05T08:40:00Z",
+    "endTime": "2024-12-05T09:00:00Z",
+    "timezone": "JST",
+    "title": "Technical Papers Interactive Discussion",
+    "type": "Technical Papers",
+    "location": "Hall B5 Lobby, B Block, Level 5",
+    "speakers": "",
+    "tags": [
+      "People with a Full Access Registration Can Attend",
+      "People with a Enhanced Access can attend",
+      "This Session will be held in English Language"
+    ]
+  },
+  {
+    "startTime": "2024-12-05T11:00:00Z",
+    "endTime": "2024-12-05T14:00:00Z",
+    "timezone": "JST",
+    "title": "SA24 Speakeasy",
+    "type": "Key Events",
+    "location": "Grace Bali Ginza Grande B3F, \u3012104-0061 Tokyo, Chuo City, Ginza, 6 Chome\u221213\u221216",
+    "speakers": "",
+    "tags": [
+      "People with a Enhanced Access can attend",
+      "People with a Exhibit & Experience Access can attend",
+      "People with an Experience Hall Exhibitor Pass can attend",
+      "People with a Full Access Registration Can Attend",
+      "People with a Full Access Supporter can attend",
+      "People with a Trade Exhibitor Pass can attend"
+    ]
+  }
+]
