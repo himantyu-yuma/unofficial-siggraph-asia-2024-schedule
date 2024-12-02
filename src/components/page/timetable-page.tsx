@@ -129,7 +129,7 @@ export const TimetablePage = ({
     // 20時~8時の間は表示しない
     if (hours >= 20 || hours < 8) return 0
     const minutes = currentTime.getMinutes()
-    return 13 + (hours - 8 + minutes / 60) * 7.0625 * 2
+    return 5 + (hours - 8 + minutes / 60) * 7.0625 * 2
   }
 
   return (
@@ -138,7 +138,7 @@ export const TimetablePage = ({
         position: "relative",
         maxWidth: "100%",
         overflowX: "auto",
-        height: "calc(100vh - 100px)",
+        height: "calc(100vh - 5rem)",
       }}
     >
       <div
@@ -173,12 +173,12 @@ export const TimetablePage = ({
             top: 0,
           }}
         >
-          <tr style={{ backgroundColor: "rgb(243, 244, 246)", height: "9rem" }}>
+          <tr style={{ backgroundColor: "rgb(243, 244, 246)", height: "5rem" }}>
             <th
               style={{
                 padding: "0.5rem",
                 border: "1px solid #e5e7eb",
-                minWidth: "200px",
+                minWidth: "4rem",
               }}
             >
               Time

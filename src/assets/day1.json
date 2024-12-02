@@ -1280,18 +1280,5 @@
       "People with a Enhanced Access can attend",
       "This Session will be held in English Language"
     ]
-  },
-  {
-    "startTime": "2024-12-03T09:00:00Z",
-    "endTime": "2024-12-03T11:00:00Z",
-    "timezone": "JST",
-    "title": "SIGGRAPH Asia 2024 Official Reception",
-    "type": "Key Events",
-    "location": "Tokyo Kaikan, 3-2-1 Marunouchi, Chiyoda-ku, Tokyo, 100-0005 Japan",
-    "speakers": "",
-    "tags": [
-      "People with a Full Access Registration Can Attend",
-      "People with a Enhanced Access can attend"
-    ]
   }
 ]

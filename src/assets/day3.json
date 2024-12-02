@@ -1644,22 +1644,5 @@
       "People with a Enhanced Access can attend",
       "This Session will be held in English Language"
     ]
-  },
-  {
-    "startTime": "2024-12-05T11:00:00Z",
-    "endTime": "2024-12-05T14:00:00Z",
-    "timezone": "JST",
-    "title": "SA24 Speakeasy",
-    "type": "Key Events",
-    "location": "Grace Bali Ginza Grande B3F, \u3012104-0061 Tokyo, Chuo City, Ginza, 6 Chome\u221213\u221216",
-    "speakers": "",
-    "tags": [
-      "People with a Enhanced Access can attend",
-      "People with a Exhibit & Experience Access can attend",
-      "People with an Experience Hall Exhibitor Pass can attend",
-      "People with a Full Access Registration Can Attend",
-      "People with a Full Access Supporter can attend",
-      "People with a Trade Exhibitor Pass can attend"
-    ]
   }
 ]
