@@ -89,6 +89,11 @@ export const TimetablePage = ({
       const durationHours =
         (endTime.getTime() - startTime.getTime()) / (1000 * 60 * 60)
 
+      // Toolsのセッションがあるか確認
+      if (event.title === "Tools") {
+        console.log(event.title)
+      }
+
       return {
         ...event,
         startHour: startTime.getHours(),
@@ -143,11 +148,12 @@ export const TimetablePage = ({
     >
       <div
         style={{
-          position: "sticky",
+          position: "absolute",
           left: "0",
-          right: "0",
+          // right: "0",
           top: `${getCurrentTimePosition()}rem`,
           height: "2px",
+          width: `${locations.length * 212.67 + 60.67}px`,
           backgroundColor: "rgb(239, 68, 68)",
           zIndex: 100,
           pointerEvents: "none",
@@ -272,9 +278,7 @@ export const TimetablePage = ({
                             style={{
                               fontWeight: "500",
                               color: "rgb(30, 64, 175)",
-                              whiteSpace: "nowrap",
                               overflow: "hidden",
-                              textOverflow: "ellipsis",
                             }}
                           >
                             <span
@@ -284,20 +288,6 @@ export const TimetablePage = ({
                               {formatTime(event.endTime)}
                             </span>
                             {event.title}
-                            {event.duration <= 0.5 && (
-                              <span
-                                style={{
-                                  marginLeft: "0.5rem",
-                                  fontSize: "0.75rem",
-                                  backgroundColor: "rgb(254, 240, 138)",
-                                  color: "rgb(161, 98, 7)",
-                                  padding: "0 0.25rem",
-                                  borderRadius: "0.25rem",
-                                }}
-                              >
-                                30min
-                              </span>
-                            )}
                           </div>
                           <div
                             style={{
