@@ -109,14 +109,27 @@ export const TimetablePage = ({
     }
   })()
 
-  const getEventAtSlot = (timeSlot: string, location: string) => {
-    const slotTime = new Date(timeSlot)
-    return events.find(
-      (event) =>
+  // timeSlotから30分間のイベントを取得
+  const getEventsBetweenTime = (timeSlot: string, location: string) => {
+    const slotStartTime = new Date(timeSlot)
+    const slotEndTime = new Date(slotStartTime.getTime() + 30 * 60 * 1000)
+    return events.filter((event) => {
+      if (!(new Date(event.startTime) < slotEndTime)) {
+        // 差を見る
+        // console.log(slotEndTime.getTime() - new Date(event.startTime).getTime())
+      }
+
+      return (
         event.location === location &&
-        event.startHour === slotTime.getHours() &&
-        event.startMinute === slotTime.getMinutes(),
-    )
+        event.startHour === slotStartTime.getHours() &&
+        event.startMinute >= slotStartTime.getMinutes() &&
+        event.startMinute < slotEndTime.getMinutes()
+      )
+    })
+  }
+
+  const getEventPosition = (startMinutes: number) => {
+    return (startMinutes / 30) * 7.0625
   }
 
   const [currentTime, setCurrentTime] = useState(new Date())
@@ -220,6 +233,7 @@ export const TimetablePage = ({
                   padding: "0.5rem",
                   border: "1px solid #e5e7eb",
                   fontWeight: "500",
+                  height: "6rem",
                   backgroundColor:
                     index % 2 === 0 ? "#ffffff" : "rgb(249, 250, 251)",
                 }}
@@ -227,126 +241,137 @@ export const TimetablePage = ({
                 {formatTime(timeSlot)}
               </th>
               {locations.map((location) => {
-                const event = getEventAtSlot(timeSlot, location)
+                const events = getEventsBetweenTime(timeSlot, location)
+                events.sort(
+                  (a, b) =>
+                    new Date(a.startTime).getTime() -
+                    new Date(b.startTime).getTime(),
+                )
                 return (
                   <td
-                    key={`${timeSlot}-${location}`}
+                    key={location}
                     style={{
                       padding: "0.5rem",
                       border: "1px solid #e5e7eb",
                       position: "relative",
-                      height: "6rem",
                     }}
                   >
-                    {event && (
-                      <button
-                        type="button"
-                        style={{
-                          // reset button style
-                          border: "none",
-                          background: "none",
-                          padding: 0,
-                          font: "inherit",
-                          cursor: "pointer",
-                          outline: "inherit",
-                        }}
-                        onClick={() => handleSessionClick(event)}
-                      >
-                        <div
+                    {events.map((event) => {
+                      return (
+                        <button
+                          type="button"
                           style={{
+                            border: "none",
+                            background: "none",
+                            padding: 0,
+                            font: "inherit",
+                            cursor: "pointer",
+                            outline: "inherit",
+
                             position: "absolute",
                             left: "4px",
                             right: "4px",
-                            top: "0",
-                            // height: `${event.duration * 12 + event.duration * 2 - 1}rem`,
-                            height: `${event.duration * 7.0625 * 2 - 1}rem`,
-                            minHeight: "2.5rem",
-                            backgroundColor: favoriteSessionTitles?.includes(
-                              event.title,
-                            )
-                              ? "rgb(255, 199, 199)"
-                              : "rgb(219, 234, 254)",
-                            borderRadius: "0.25rem",
-                            padding: "0.5rem",
-                            boxShadow: "0 1px 2px 0 rgba(0, 0, 0, 0.05)",
-                            border: "1px solid rgb(191, 219, 254)",
-                            overflow: "visible",
-                            zIndex: 10,
+                            top: `${getEventPosition(event.startMinute)}rem`,
                           }}
+                          onClick={() => handleSessionClick(event)}
+                          key={event.title}
                         >
                           <div
                             style={{
-                              fontWeight: "500",
-                              color: "rgb(30, 64, 175)",
-                              overflow: "hidden",
+                              // height: `${event.duration * 12 + event.duration * 2 - 1}rem`,
+                              height: `${event.duration * 7.0625 * 2 - 1}rem`,
+                              minHeight: "2.5rem",
+                              backgroundColor: favoriteSessionTitles?.includes(
+                                event.title,
+                              )
+                                ? "rgb(255, 199, 199)"
+                                : "rgb(219, 234, 254)",
+                              borderRadius: "0.25rem",
+                              padding: "0.5rem",
+                              boxShadow: "0 1px 2px 0 rgba(0, 0, 0, 0.05)",
+                              border: "1px solid rgb(191, 219, 254)",
+                              overflow: "visible",
+                              zIndex: 10,
                             }}
                           >
-                            <span
-                              style={{ display: "block", fontSize: "0.75rem" }}
-                            >
-                              {formatTime(event.startTime)} -{" "}
-                              {formatTime(event.endTime)}
-                            </span>
-                            {event.title}
-                          </div>
-                          <div
-                            style={{
-                              fontSize: "0.875rem",
-                              color: "rgb(37, 99, 235)",
-                              whiteSpace: "nowrap",
-                              overflow: "hidden",
-                              textOverflow: "ellipsis",
-                            }}
-                          >
-                            {event.type}
-                          </div>
-                          {event.speakers && (
                             <div
                               style={{
-                                fontSize: "0.75rem",
-                                color: "rgb(29, 78, 216)",
+                                fontWeight: "500",
+                                color: "rgb(30, 64, 175)",
+                                overflow: "hidden",
+                              }}
+                            >
+                              <span
+                                style={{
+                                  display: "block",
+                                  fontSize: "0.75rem",
+                                }}
+                              >
+                                {formatTime(event.startTime)} -{" "}
+                                {formatTime(event.endTime)}
+                              </span>
+                              {event.title}
+                            </div>
+                            <div
+                              style={{
+                                fontSize: "0.875rem",
+                                color: "rgb(37, 99, 235)",
                                 whiteSpace: "nowrap",
                                 overflow: "hidden",
                                 textOverflow: "ellipsis",
                               }}
                             >
-                              {event.speakers}
+                              {event.type}
                             </div>
-                          )}
-                          {event.tags && event.tags.length > 0 && (
-                            <div
-                              style={{
-                                display: "flex",
-                                flexWrap: "wrap",
-                                gap: "0.25rem",
-                                marginTop: "0.25rem",
-                              }}
-                            >
-                              {event.tags.map((tag, i) => (
-                                <span
-                                  // biome-ignore lint/suspicious/noArrayIndexKey: <explanation>
-                                  key={i}
-                                  style={{
-                                    fontSize: "0.75rem",
-                                    backgroundColor:
-                                      tagTable[tag]?.color || "rgb(90, 90, 90)",
-                                    // color: "rgb(30, 64, 175)",
-                                    color: "#fff",
-                                    padding: "0.25rem 0.5rem",
-                                    borderRadius: "0.25rem",
-                                    whiteSpace: "nowrap",
-                                    overflow: "hidden",
-                                    textOverflow: "ellipsis",
-                                  }}
-                                >
-                                  {tagTable[tag]?.name || tag}
-                                </span>
-                              ))}
-                            </div>
-                          )}
-                        </div>
-                      </button>
-                    )}
+                            {event.speakers && (
+                              <div
+                                style={{
+                                  fontSize: "0.75rem",
+                                  color: "rgb(29, 78, 216)",
+                                  whiteSpace: "nowrap",
+                                  overflow: "hidden",
+                                  textOverflow: "ellipsis",
+                                }}
+                              >
+                                {event.speakers}
+                              </div>
+                            )}
+                            {event.tags && event.tags.length > 0 && (
+                              <div
+                                style={{
+                                  display: "flex",
+                                  flexWrap: "wrap",
+                                  gap: "0.25rem",
+                                  marginTop: "0.25rem",
+                                }}
+                              >
+                                {event.tags.map((tag, i) => (
+                                  <span
+                                    // biome-ignore lint/suspicious/noArrayIndexKey: <explanation>
+                                    key={i}
+                                    style={{
+                                      fontSize: "0.75rem",
+                                      backgroundColor:
+                                        tagTable[tag]?.color ||
+                                        "rgb(90, 90, 90)",
+                                      // color: "rgb(30, 64, 175)",
+                                      color: "#fff",
+                                      padding: "0.25rem 0.5rem",
+                                      borderRadius: "0.25rem",
+                                      whiteSpace: "nowrap",
+                                      overflow: "hidden",
+                                      textOverflow: "ellipsis",
+                                    }}
+                                  >
+                                    {tagTable[tag]?.name || tag}
+                                  </span>
+                                ))}
+                              </div>
+                            )}
+                          </div>
+                        </button>
+                      )
+                    })}
                   </td>
                 )
               })}
