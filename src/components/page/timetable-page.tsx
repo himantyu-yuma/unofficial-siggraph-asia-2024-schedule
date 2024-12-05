@@ -108,19 +108,13 @@ export const TimetablePage = ({
   const getEventsBetweenTime = (timeSlot: string, location: string) => {
     const slotStartTime = new Date(timeSlot)
     const slotEndTime = new Date(slotStartTime.getTime() + 30 * 60 * 1000)
-    return events.filter((event) => {
-      if (!(new Date(event.startTime) < slotEndTime)) {
-        // 差を見る
-        // console.log(slotEndTime.getTime() - new Date(event.startTime).getTime())
-      }
-
-      return (
+    return events.filter(
+      (event) =>
         event.location === location &&
         event.startHour === slotStartTime.getHours() &&
         event.startMinute >= slotStartTime.getMinutes() &&
-        event.startMinute < slotEndTime.getMinutes()
-      )
-    })
+        event.startMinute < slotEndTime.getMinutes(),
+    )
   }
 
   const getEventPosition = (startMinutes: number) => {
@@ -349,7 +343,6 @@ export const TimetablePage = ({
                                       backgroundColor:
                                         tagTable[tag]?.color ||
                                         "rgb(90, 90, 90)",
-                                      // color: "rgb(30, 64, 175)",
                                       color: "#fff",
                                       padding: "0.25rem 0.5rem",
                                       borderRadius: "0.25rem",
