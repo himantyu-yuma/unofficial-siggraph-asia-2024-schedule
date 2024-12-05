@@ -89,11 +89,6 @@ export const TimetablePage = ({
       const durationHours =
         (endTime.getTime() - startTime.getTime()) / (1000 * 60 * 60)
 
-      // Toolsのセッションがあるか確認
-      if (event.title === "Tools") {
-        console.log(event.title)
-      }
-
       return {
         ...event,
         startHour: startTime.getHours(),
