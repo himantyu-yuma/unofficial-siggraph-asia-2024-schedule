@@ -9,42 +9,51 @@ type Props = {
 }
 
 const tagTable: Record<string, { name: string; color: string }> = {
-  "People with a Enhanced Access can attend": {
+  "SA24-Enhanced-Access": {
     name: "EA",
     color: "rgb(0, 113, 255)",
   },
-  "People with a Exhibit & Experience Access can attend": {
+  "SA24-EE-Access": {
     name: "EX",
     color: "#009688",
   },
-  "People with an Experience Hall Exhibitor Pass can attend": {
+  "SA24-Exp-Hall-Exhibitor": {
     name: "EH",
     color: "#F44336",
   },
-  "People with a Full Access Registration Can Attend": {
+  "SA24-Full-Access": {
     name: "FA",
     color: "#FF9800",
   },
-  "People with a Full Access Supporter can attend": {
+  "SA24-Full-Access-Supporter": {
     name: "FS",
     color: "rgb(255 87 223)",
   },
-  "People with a Trade Exhibitor Pass can attend": {
+  "SA24-Trade-Exhibitor": {
     name: "TE",
     color: "#F44336",
   },
-  "This Session will be held in English Language": { name: "en", color: "" },
-  "This Session will be held in Japanese Language": { name: "ja", color: "" },
-  "No Photo Taking Allowed at this Session": { name: "No Photo", color: "" },
-  "This Session will have Simultaneous Translation from English to Japanese": {
+  "flag-united-states": {
+    name: "en",
+    color: "",
+  },
+  "flag-japan": {
+    name: "ja",
+    color: "",
+  },
+  "phone-call-sound-and-camera-ban-sign": {
+    name: "No Photo",
+    color: "",
+  },
+  "english-to-japanese-translate-icon": {
     name: "en to ja",
     color: "",
   },
-  "This Session will have Simultaneous Translation from Japanese to English": {
+  "chat-bubbles-with-language-translation-icons-isolated-on-white-background": {
     name: "ja to en",
     color: "",
   },
-  "This Session will have AI Translation in Multi-Language": {
+  "ai-translation-2275336-1927740": {
     name: "AI Translation",
     color: "",
   },
