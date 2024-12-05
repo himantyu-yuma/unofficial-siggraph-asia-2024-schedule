@@ -18,12 +18,12 @@
     "location": "G406, G Block, Level 4",
     "speakers": "",
     "tags": [
-      "People with a Enhanced Access can attend",
-      "People with a Exhibit & Experience Access can attend",
-      "People with an Experience Hall Exhibitor Pass can attend",
-      "People with a Full Access Registration Can Attend",
-      "People with a Full Access Supporter can attend",
-      "People with a Trade Exhibitor Pass can attend"
+      "SA24-Enhanced-Access",
+      "SA24-EE-Access",
+      "SA24-Exp-Hall-Exhibitor",
+      "SA24-Full-Access",
+      "SA24-Full-Access-Supporter",
+      "SA24-Trade-Exhibitor"
     ]
   },
   {
@@ -35,12 +35,12 @@
     "location": "G403, G Block, Level 4",
     "speakers": "",
     "tags": [
-      "People with a Enhanced Access can attend",
-      "People with a Exhibit & Experience Access can attend",
-      "People with an Experience Hall Exhibitor Pass can attend",
-      "People with a Full Access Registration Can Attend",
-      "People with a Full Access Supporter can attend",
-      "People with a Trade Exhibitor Pass can attend"
+      "SA24-Enhanced-Access",
+      "SA24-EE-Access",
+      "SA24-Exp-Hall-Exhibitor",
+      "SA24-Full-Access",
+      "SA24-Full-Access-Supporter",
+      "SA24-Trade-Exhibitor"
     ]
   },
   {
@@ -62,9 +62,9 @@
     "location": "Hall B5 (1), B Block, Level 5",
     "speakers": "Kui Wu",
     "tags": [
-      "People with a Full Access Registration Can Attend",
-      "People with a Enhanced Access can attend",
-      "This Session will be held in English Language"
+      "SA24-Full-Access",
+      "SA24-Full-Access-Supporter",
+      "flag-united-states"
     ]
   },
   {
@@ -76,9 +76,9 @@
     "location": "G404, G Block, Level 4",
     "speakers": "",
     "tags": [
-      "People with a Enhanced Access can attend",
-      "People with a Full Access Registration Can Attend",
-      "People with a Full Access Supporter can attend"
+      "SA24-Enhanced-Access",
+      "SA24-Full-Access",
+      "SA24-Full-Access-Supporter"
     ]
   },
   {
@@ -100,9 +100,9 @@
     "location": "Hall B5 (2), B Block, Level 5",
     "speakers": "Seungyong Lee",
     "tags": [
-      "People with a Full Access Registration Can Attend",
-      "People with a Enhanced Access can attend",
-      "This Session will be held in English Language"
+      "SA24-Full-Access",
+      "SA24-Full-Access-Supporter",
+      "flag-united-states"
     ]
   },
   {
@@ -114,9 +114,9 @@
     "location": "Hall B7 (1), B Block, Level 7",
     "speakers": "Sheldon Andrews",
     "tags": [
-      "People with a Full Access Registration Can Attend",
-      "People with a Enhanced Access can attend",
-      "This Session will be held in English Language"
+      "SA24-Full-Access",
+      "SA24-Full-Access-Supporter",
+      "flag-united-states"
     ]
   },
   {
@@ -148,12 +148,12 @@
     "location": "Lobby Gallery (1) & (2), G Block, Level B1",
     "speakers": "",
     "tags": [
-      "People with a Enhanced Access can attend",
-      "People with a Exhibit & Experience Access can attend",
-      "People with an Experience Hall Exhibitor Pass can attend",
-      "People with a Full Access Registration Can Attend",
-      "People with a Full Access Supporter can attend",
-      "People with a Trade Exhibitor Pass can attend"
+      "SA24-Enhanced-Access",
+      "SA24-EE-Access",
+      "SA24-Exp-Hall-Exhibitor",
+      "SA24-Full-Access",
+      "SA24-Full-Access-Supporter",
+      "SA24-Trade-Exhibitor"
     ]
   },
   {
@@ -165,12 +165,12 @@
     "location": "G503, G Block, Level 5",
     "speakers": "",
     "tags": [
-      "People with a Enhanced Access can attend",
-      "People with a Exhibit & Experience Access can attend",
-      "People with an Experience Hall Exhibitor Pass can attend",
-      "People with a Full Access Registration Can Attend",
-      "People with a Full Access Supporter can attend",
-      "People with a Trade Exhibitor Pass can attend"
+      "SA24-Enhanced-Access",
+      "SA24-EE-Access",
+      "SA24-Exp-Hall-Exhibitor",
+      "SA24-Full-Access",
+      "SA24-Full-Access-Supporter",
+      "SA24-Trade-Exhibitor"
     ]
   },
   {
@@ -192,12 +192,12 @@
     "location": "G501, G Block, Level 5",
     "speakers": "",
     "tags": [
-      "People with a Enhanced Access can attend",
-      "People with a Exhibit & Experience Access can attend",
-      "People with an Experience Hall Exhibitor Pass can attend",
-      "People with a Full Access Registration Can Attend",
-      "People with a Full Access Supporter can attend",
-      "People with a Trade Exhibitor Pass can attend"
+      "SA24-Enhanced-Access",
+      "SA24-EE-Access",
+      "SA24-Exp-Hall-Exhibitor",
+      "SA24-Full-Access",
+      "SA24-Full-Access-Supporter",
+      "SA24-Trade-Exhibitor"
     ]
   },
   {
@@ -239,7 +239,7 @@
     "location": "G504, G Block, Level 5",
     "speakers": "",
     "tags": [
-      "People with a Full Access Registration Can Attend"
+      "SA24-Full-Access"
     ]
   },
   {
@@ -251,12 +251,12 @@
     "location": "Lobby Gallery (1) & (2), G Block, Level B1",
     "speakers": "",
     "tags": [
-      "People with a Enhanced Access can attend",
-      "People with a Exhibit & Experience Access can attend",
-      "People with an Experience Hall Exhibitor Pass can attend",
-      "People with a Full Access Registration Can Attend",
-      "People with a Full Access Supporter can attend",
-      "People with a Trade Exhibitor Pass can attend"
+      "SA24-Enhanced-Access",
+      "SA24-EE-Access",
+      "SA24-Exp-Hall-Exhibitor",
+      "SA24-Full-Access",
+      "SA24-Full-Access-Supporter",
+      "SA24-Trade-Exhibitor"
     ]
   },
   {
@@ -268,11 +268,11 @@
     "location": "Hall C, C Block, Level 4",
     "speakers": "",
     "tags": [
-      "People with a Enhanced Access can attend",
-      "People with a Full Access Registration Can Attend",
-      "People with a Full Access Supporter can attend",
-      "This Session will be held in Japanese Language",
-      "This Session will be held in English Language"
+      "SA24-Enhanced-Access",
+      "SA24-Full-Access",
+      "SA24-Full-Access-Supporter",
+      "flag-japan",
+      "flag-united-states"
     ]
   },
   {
@@ -284,12 +284,12 @@
     "location": "Hall E, E Block, Level B2",
     "speakers": "",
     "tags": [
-      "People with a Enhanced Access can attend",
-      "People with a Exhibit & Experience Access can attend",
-      "People with an Experience Hall Exhibitor Pass can attend",
-      "People with a Full Access Registration Can Attend",
-      "People with a Full Access Supporter can attend",
-      "People with a Trade Exhibitor Pass can attend"
+      "SA24-Enhanced-Access",
+      "SA24-EE-Access",
+      "SA24-Exp-Hall-Exhibitor",
+      "SA24-Full-Access",
+      "SA24-Full-Access-Supporter",
+      "SA24-Trade-Exhibitor"
     ]
   },
   {
@@ -301,29 +301,29 @@
     "location": "Hall E - Talk Stage, E Block, Level B2",
     "speakers": "Vali Lalioti",
     "tags": [
-      "People with a Enhanced Access can attend",
-      "People with a Exhibit & Experience Access can attend",
-      "People with an Experience Hall Exhibitor Pass can attend",
-      "People with a Full Access Registration Can Attend",
-      "People with a Full Access Supporter can attend",
-      "People with a Trade Exhibitor Pass can attend",
-      "This Session will be held in English Language"
+      "SA24-Enhanced-Access",
+      "SA24-EE-Access",
+      "SA24-Exp-Hall-Exhibitor",
+      "SA24-Full-Access",
+      "SA24-Full-Access-Supporter",
+      "SA24-Trade-Exhibitor",
+      "flag-united-states"
     ]
   },
   {
     "startTime": "2024-12-06T01:00:00Z",
     "endTime": "2024-12-06T02:00:00Z",
     "timezone": "JST",
-    "title": "CGI\u2019s Evolution and the Power of Diversity in Animation Production",
+    "title": "CGI’s Evolution and the Power of Diversity in Animation Production",
     "type": "Key EventsKeynote",
     "location": "Hall C, C Block, Level 4",
     "speakers": "Jinko Gotoh",
     "tags": [
-      "People with a Enhanced Access can attend",
-      "People with a Full Access Registration Can Attend",
-      "People with a Full Access Supporter can attend",
-      "This Session will be held in English Language",
-      "This Session will have Simultaneous Translation from English to Japanese"
+      "SA24-Enhanced-Access",
+      "SA24-Full-Access",
+      "SA24-Full-Access-Supporter",
+      "flag-united-states",
+      "english-to-japanese-translate-icon"
     ]
   },
   {
@@ -335,12 +335,12 @@
     "location": "Hall E, E Block, Level B2",
     "speakers": "",
     "tags": [
-      "People with a Enhanced Access can attend",
-      "People with a Exhibit & Experience Access can attend",
-      "People with an Experience Hall Exhibitor Pass can attend",
-      "People with a Full Access Registration Can Attend",
-      "People with a Full Access Supporter can attend",
-      "People with a Trade Exhibitor Pass can attend"
+      "SA24-Enhanced-Access",
+      "SA24-EE-Access",
+      "SA24-Exp-Hall-Exhibitor",
+      "SA24-Full-Access",
+      "SA24-Full-Access-Supporter",
+      "SA24-Trade-Exhibitor"
     ]
   },
   {
@@ -352,14 +352,14 @@
     "location": "G409, G Block, Level 4",
     "speakers": "",
     "tags": [
-      "People with a Enhanced Access can attend",
-      "People with a Exhibit & Experience Access can attend",
-      "People with an Experience Hall Exhibitor Pass can attend",
-      "People with a Full Access Registration Can Attend",
-      "People with a Full Access Supporter can attend",
-      "People with a Trade Exhibitor Pass can attend",
-      "This Session will be held in Japanese Language",
-      "This Session will be held in English Language"
+      "SA24-Enhanced-Access",
+      "SA24-EE-Access",
+      "SA24-Exp-Hall-Exhibitor",
+      "SA24-Full-Access",
+      "SA24-Full-Access-Supporter",
+      "SA24-Trade-Exhibitor",
+      "flag-japan",
+      "flag-united-states"
     ]
   },
   {
@@ -371,12 +371,12 @@
     "location": "Hall E, E Block, Level B2",
     "speakers": "",
     "tags": [
-      "People with a Enhanced Access can attend",
-      "People with a Exhibit & Experience Access can attend",
-      "People with an Experience Hall Exhibitor Pass can attend",
-      "People with a Full Access Registration Can Attend",
-      "People with a Full Access Supporter can attend",
-      "People with a Trade Exhibitor Pass can attend"
+      "SA24-Enhanced-Access",
+      "SA24-EE-Access",
+      "SA24-Exp-Hall-Exhibitor",
+      "SA24-Full-Access",
+      "SA24-Full-Access-Supporter",
+      "SA24-Trade-Exhibitor"
     ]
   },
   {
@@ -388,12 +388,12 @@
     "location": "Hall E, E Block, Level B2",
     "speakers": "",
     "tags": [
-      "People with a Enhanced Access can attend",
-      "People with a Exhibit & Experience Access can attend",
-      "People with an Experience Hall Exhibitor Pass can attend",
-      "People with a Full Access Registration Can Attend",
-      "People with a Full Access Supporter can attend",
-      "People with a Trade Exhibitor Pass can attend"
+      "SA24-Enhanced-Access",
+      "SA24-EE-Access",
+      "SA24-Exp-Hall-Exhibitor",
+      "SA24-Full-Access",
+      "SA24-Full-Access-Supporter",
+      "SA24-Trade-Exhibitor"
     ]
   },
   {
@@ -405,13 +405,13 @@
     "location": "G402, G Block, Level 4",
     "speakers": "Jingyi Zhang",
     "tags": [
-      "People with a Enhanced Access can attend",
-      "People with a Exhibit & Experience Access can attend",
-      "People with an Experience Hall Exhibitor Pass can attend",
-      "People with a Full Access Registration Can Attend",
-      "People with a Full Access Supporter can attend",
-      "People with a Trade Exhibitor Pass can attend",
-      "This Session will be held in English Language"
+      "SA24-Enhanced-Access",
+      "SA24-EE-Access",
+      "SA24-Exp-Hall-Exhibitor",
+      "SA24-Full-Access",
+      "SA24-Full-Access-Supporter",
+      "SA24-Trade-Exhibitor",
+      "flag-united-states"
     ]
   },
   {
@@ -423,12 +423,12 @@
     "location": "G505, G Block, Level 5",
     "speakers": "",
     "tags": [
-      "People with a Enhanced Access can attend",
-      "People with a Exhibit & Experience Access can attend",
-      "People with an Experience Hall Exhibitor Pass can attend",
-      "People with a Full Access Registration Can Attend",
-      "People with a Full Access Supporter can attend",
-      "People with a Trade Exhibitor Pass can attend"
+      "SA24-Enhanced-Access",
+      "SA24-EE-Access",
+      "SA24-Exp-Hall-Exhibitor",
+      "SA24-Full-Access",
+      "SA24-Full-Access-Supporter",
+      "SA24-Trade-Exhibitor"
     ]
   },
   {
@@ -440,12 +440,12 @@
     "location": "Hall E, E Block, Level B2",
     "speakers": "",
     "tags": [
-      "People with a Enhanced Access can attend",
-      "People with a Exhibit & Experience Access can attend",
-      "People with an Experience Hall Exhibitor Pass can attend",
-      "People with a Full Access Registration Can Attend",
-      "People with a Full Access Supporter can attend",
-      "People with a Trade Exhibitor Pass can attend"
+      "SA24-Enhanced-Access",
+      "SA24-EE-Access",
+      "SA24-Exp-Hall-Exhibitor",
+      "SA24-Full-Access",
+      "SA24-Full-Access-Supporter",
+      "SA24-Trade-Exhibitor"
     ]
   },
   {
@@ -457,9 +457,9 @@
     "location": "Hall B5 Lobby, B Block, Level 5",
     "speakers": "",
     "tags": [
-      "People with a Full Access Registration Can Attend",
-      "People with a Enhanced Access can attend",
-      "This Session will be held in English Language"
+      "SA24-Full-Access",
+      "SA24-Full-Access-Supporter",
+      "flag-united-states"
     ]
   },
   {
@@ -471,9 +471,9 @@
     "location": "Hall B7 (1), B Block, Level 7",
     "speakers": "Kui Wu",
     "tags": [
-      "People with a Full Access Registration Can Attend",
-      "People with a Enhanced Access can attend",
-      "This Session will be held in English Language"
+      "SA24-Full-Access",
+      "SA24-Full-Access-Supporter",
+      "flag-united-states"
     ]
   },
   {
@@ -485,9 +485,9 @@
     "location": "Hall B5 (1), B Block, Level 5",
     "speakers": "Maria Larsson",
     "tags": [
-      "People with a Full Access Registration Can Attend",
-      "People with a Enhanced Access can attend",
-      "This Session will be held in English Language"
+      "SA24-Full-Access",
+      "SA24-Full-Access-Supporter",
+      "flag-united-states"
     ]
   },
   {
@@ -499,9 +499,9 @@
     "location": "Hall B5 (2), B Block, Level 5",
     "speakers": "Iain Matthews",
     "tags": [
-      "People with a Full Access Registration Can Attend",
-      "People with a Enhanced Access can attend",
-      "This Session will be held in English Language"
+      "SA24-Full-Access",
+      "SA24-Full-Access-Supporter",
+      "flag-united-states"
     ]
   },
   {
@@ -513,13 +513,13 @@
     "location": "G408, G Block, Level 4",
     "speakers": "Neil TrevettHideaki EguchiDr. Cai KangYing",
     "tags": [
-      "People with a Enhanced Access can attend",
-      "People with a Exhibit & Experience Access can attend",
-      "People with an Experience Hall Exhibitor Pass can attend",
-      "People with a Full Access Registration Can Attend",
-      "People with a Full Access Supporter can attend",
-      "People with a Trade Exhibitor Pass can attend",
-      "This Session will be held in English Language"
+      "SA24-Enhanced-Access",
+      "SA24-EE-Access",
+      "SA24-Exp-Hall-Exhibitor",
+      "SA24-Full-Access",
+      "SA24-Full-Access-Supporter",
+      "SA24-Trade-Exhibitor",
+      "flag-united-states"
     ]
   },
   {
@@ -531,13 +531,13 @@
     "location": "G407, G Block, Level 4",
     "speakers": "Marc SalvatiTatsuo Yotsukura",
     "tags": [
-      "People with a Enhanced Access can attend",
-      "People with a Exhibit & Experience Access can attend",
-      "People with an Experience Hall Exhibitor Pass can attend",
-      "People with a Full Access Registration Can Attend",
-      "People with a Full Access Supporter can attend",
-      "People with a Trade Exhibitor Pass can attend",
-      "This Session will be held in English Language"
+      "SA24-Enhanced-Access",
+      "SA24-EE-Access",
+      "SA24-Exp-Hall-Exhibitor",
+      "SA24-Full-Access",
+      "SA24-Full-Access-Supporter",
+      "SA24-Trade-Exhibitor",
+      "flag-united-states"
     ]
   },
   {
@@ -549,12 +549,12 @@
     "location": "G505, G Block, Level 5",
     "speakers": "",
     "tags": [
-      "People with a Enhanced Access can attend",
-      "People with a Exhibit & Experience Access can attend",
-      "People with an Experience Hall Exhibitor Pass can attend",
-      "People with a Full Access Registration Can Attend",
-      "People with a Full Access Supporter can attend",
-      "People with a Trade Exhibitor Pass can attend"
+      "SA24-Enhanced-Access",
+      "SA24-EE-Access",
+      "SA24-Exp-Hall-Exhibitor",
+      "SA24-Full-Access",
+      "SA24-Full-Access-Supporter",
+      "SA24-Trade-Exhibitor"
     ]
   },
   {
@@ -566,13 +566,13 @@
     "location": "",
     "speakers": "",
     "tags": [
-      "People with a Enhanced Access can attend",
-      "People with a Exhibit & Experience Access can attend",
-      "People with an Experience Hall Exhibitor Pass can attend",
-      "People with a Full Access Registration Can Attend",
-      "People with a Full Access Supporter can attend",
-      "People with a Trade Exhibitor Pass can attend",
-      "This Session will be held in English Language"
+      "SA24-Enhanced-Access",
+      "SA24-EE-Access",
+      "SA24-Exp-Hall-Exhibitor",
+      "SA24-Full-Access",
+      "SA24-Full-Access-Supporter",
+      "SA24-Trade-Exhibitor",
+      "flag-united-states"
     ]
   },
   {
@@ -584,11 +584,11 @@
     "location": "Hall C, C Block, Level 4",
     "speakers": "Philippe Lierena",
     "tags": [
-      "People with a Enhanced Access can attend",
-      "People with a Full Access Registration Can Attend",
-      "People with a Full Access Supporter can attend",
-      "This Session will be held in English Language",
-      "This Session will have Simultaneous Translation from English to Japanese"
+      "SA24-Enhanced-Access",
+      "SA24-Full-Access",
+      "SA24-Full-Access-Supporter",
+      "flag-united-states",
+      "english-to-japanese-translate-icon"
     ]
   },
   {
@@ -600,13 +600,13 @@
     "location": "G502, G Block, Level 5",
     "speakers": "Youichiro MiyakeYasuyuki MakinoYosuke OkunariYuichi Toyama",
     "tags": [
-      "People with a Enhanced Access can attend",
-      "People with a Exhibit & Experience Access can attend",
-      "People with an Experience Hall Exhibitor Pass can attend",
-      "People with a Full Access Registration Can Attend",
-      "People with a Full Access Supporter can attend",
-      "People with a Trade Exhibitor Pass can attend",
-      "This Session will be held in English Language"
+      "SA24-Enhanced-Access",
+      "SA24-EE-Access",
+      "SA24-Exp-Hall-Exhibitor",
+      "SA24-Full-Access",
+      "SA24-Full-Access-Supporter",
+      "SA24-Trade-Exhibitor",
+      "flag-united-states"
     ]
   },
   {
@@ -618,9 +618,9 @@
     "location": "Hall B5 Lobby, B Block, Level 5",
     "speakers": "",
     "tags": [
-      "People with a Full Access Registration Can Attend",
-      "People with a Enhanced Access can attend",
-      "This Session will be held in English Language"
+      "SA24-Full-Access",
+      "SA24-Full-Access-Supporter",
+      "flag-united-states"
     ]
   },
   {
@@ -632,13 +632,13 @@
     "location": "Hall E - Talk Stage, E Block, Level B2",
     "speakers": "",
     "tags": [
-      "People with a Enhanced Access can attend",
-      "People with a Exhibit & Experience Access can attend",
-      "People with an Experience Hall Exhibitor Pass can attend",
-      "People with a Full Access Registration Can Attend",
-      "People with a Full Access Supporter can attend",
-      "People with a Trade Exhibitor Pass can attend",
-      "This Session will be held in English Language"
+      "SA24-Enhanced-Access",
+      "SA24-EE-Access",
+      "SA24-Exp-Hall-Exhibitor",
+      "SA24-Full-Access",
+      "SA24-Full-Access-Supporter",
+      "SA24-Trade-Exhibitor",
+      "flag-united-states"
     ]
   },
   {
@@ -650,9 +650,9 @@
     "location": "Hall B7 (1), B Block, Level 7",
     "speakers": "Yi Zhou",
     "tags": [
-      "People with a Full Access Registration Can Attend",
-      "People with a Enhanced Access can attend",
-      "This Session will be held in English Language"
+      "SA24-Full-Access",
+      "SA24-Full-Access-Supporter",
+      "flag-united-states"
     ]
   },
   {
@@ -664,9 +664,9 @@
     "location": "Hall B5 (2), B Block, Level 5",
     "speakers": "Valentin Deschaintre",
     "tags": [
-      "People with a Full Access Registration Can Attend",
-      "People with a Enhanced Access can attend",
-      "This Session will be held in English Language"
+      "SA24-Full-Access",
+      "SA24-Full-Access-Supporter",
+      "flag-united-states"
     ]
   },
   {
@@ -676,15 +676,15 @@
     "title": "New ways to think 2D Animation with Moho",
     "type": "Birds of a Feather",
     "location": "G407, G Block, Level 4",
-    "speakers": "Fahim NiazV\u00edctor Paredes",
+    "speakers": "Fahim NiazVíctor Paredes",
     "tags": [
-      "People with a Enhanced Access can attend",
-      "People with a Exhibit & Experience Access can attend",
-      "People with an Experience Hall Exhibitor Pass can attend",
-      "People with a Full Access Registration Can Attend",
-      "People with a Full Access Supporter can attend",
-      "People with a Trade Exhibitor Pass can attend",
-      "This Session will be held in English Language"
+      "SA24-Enhanced-Access",
+      "SA24-EE-Access",
+      "SA24-Exp-Hall-Exhibitor",
+      "SA24-Full-Access",
+      "SA24-Full-Access-Supporter",
+      "SA24-Trade-Exhibitor",
+      "flag-united-states"
     ]
   },
   {
@@ -696,9 +696,9 @@
     "location": "Hall B5 (1), B Block, Level 5",
     "speakers": "Hao (Richard) Zhang",
     "tags": [
-      "People with a Full Access Registration Can Attend",
-      "People with a Enhanced Access can attend",
-      "This Session will be held in English Language"
+      "SA24-Full-Access",
+      "SA24-Full-Access-Supporter",
+      "flag-united-states"
     ]
   },
   {
@@ -710,12 +710,12 @@
     "location": "Lobby Gallery (1) & (2), G Block, Level B1",
     "speakers": "",
     "tags": [
-      "People with a Enhanced Access can attend",
-      "People with a Exhibit & Experience Access can attend",
-      "People with an Experience Hall Exhibitor Pass can attend",
-      "People with a Full Access Registration Can Attend",
-      "People with a Full Access Supporter can attend",
-      "People with a Trade Exhibitor Pass can attend"
+      "SA24-Enhanced-Access",
+      "SA24-EE-Access",
+      "SA24-Exp-Hall-Exhibitor",
+      "SA24-Full-Access",
+      "SA24-Full-Access-Supporter",
+      "SA24-Trade-Exhibitor"
     ]
   },
   {
@@ -727,10 +727,10 @@
     "location": "G502, G Block, Level 5",
     "speakers": "John PetropoulosManos KamarianakisAntonis ProtopsaltisGeorge Papagiannakis",
     "tags": [
-      "People with a Enhanced Access can attend",
-      "People with a Full Access Registration Can Attend",
-      "People with a Full Access Supporter can attend",
-      "This Session will be held in English Language"
+      "SA24-Enhanced-Access",
+      "SA24-Full-Access",
+      "SA24-Full-Access-Supporter",
+      "flag-united-states"
     ]
   },
   {
@@ -742,13 +742,13 @@
     "location": "G408, G Block, Level 4",
     "speakers": "Ee Teo",
     "tags": [
-      "People with a Enhanced Access can attend",
-      "People with a Exhibit & Experience Access can attend",
-      "People with an Experience Hall Exhibitor Pass can attend",
-      "People with a Full Access Registration Can Attend",
-      "People with a Full Access Supporter can attend",
-      "People with a Trade Exhibitor Pass can attend",
-      "This Session will be held in English Language"
+      "SA24-Enhanced-Access",
+      "SA24-EE-Access",
+      "SA24-Exp-Hall-Exhibitor",
+      "SA24-Full-Access",
+      "SA24-Full-Access-Supporter",
+      "SA24-Trade-Exhibitor",
+      "flag-united-states"
     ]
   },
   {
@@ -760,12 +760,12 @@
     "location": "G505, G Block, Level 5",
     "speakers": "",
     "tags": [
-      "People with a Enhanced Access can attend",
-      "People with a Exhibit & Experience Access can attend",
-      "People with an Experience Hall Exhibitor Pass can attend",
-      "People with a Full Access Registration Can Attend",
-      "People with a Full Access Supporter can attend",
-      "People with a Trade Exhibitor Pass can attend"
+      "SA24-Enhanced-Access",
+      "SA24-EE-Access",
+      "SA24-Exp-Hall-Exhibitor",
+      "SA24-Full-Access",
+      "SA24-Full-Access-Supporter",
+      "SA24-Trade-Exhibitor"
     ]
   },
   {
@@ -777,11 +777,11 @@
     "location": "Hall B7 (2), B Block, Level 7",
     "speakers": "Shinji AramakiYuichi SaitoYuta TakayasuKotaro SakamotoItsuro Sasakura",
     "tags": [
-      "People with a Enhanced Access can attend",
-      "People with a Full Access Registration Can Attend",
-      "People with a Full Access Supporter can attend",
-      "This Session will be held in Japanese Language",
-      "This Session will have Simultaneous Translation from Japanese to English"
+      "SA24-Enhanced-Access",
+      "SA24-Full-Access",
+      "SA24-Full-Access-Supporter",
+      "flag-japan",
+      "chat-bubbles-with-language-translation-icons-isolated-on-white-background"
     ]
   },
   {
@@ -793,10 +793,10 @@
     "location": "G502, G Block, Level 5",
     "speakers": "Harutaka Matsunagakazunori Miyata",
     "tags": [
-      "People with a Enhanced Access can attend",
-      "People with a Full Access Registration Can Attend",
-      "People with a Full Access Supporter can attend",
-      "This Session will be held in English Language"
+      "SA24-Enhanced-Access",
+      "SA24-Full-Access",
+      "SA24-Full-Access-Supporter",
+      "flag-united-states"
     ]
   },
   {
@@ -808,10 +808,10 @@
     "location": "G502, G Block, Level 5",
     "speakers": "Rico DoberJennifer MeierSebastian GroblerPeter KabothStephan Schuh",
     "tags": [
-      "People with a Enhanced Access can attend",
-      "People with a Full Access Registration Can Attend",
-      "People with a Full Access Supporter can attend",
-      "This Session will be held in English Language"
+      "SA24-Enhanced-Access",
+      "SA24-Full-Access",
+      "SA24-Full-Access-Supporter",
+      "flag-united-states"
     ]
   },
   {
@@ -823,28 +823,28 @@
     "location": "Lobby Gallery (1) & (2), G Block, Level B1",
     "speakers": "",
     "tags": [
-      "People with a Enhanced Access can attend",
-      "People with a Exhibit & Experience Access can attend",
-      "People with an Experience Hall Exhibitor Pass can attend",
-      "People with a Full Access Registration Can Attend",
-      "People with a Full Access Supporter can attend",
-      "People with a Trade Exhibitor Pass can attend",
-      "This Session will be held in English Language"
+      "SA24-Enhanced-Access",
+      "SA24-EE-Access",
+      "SA24-Exp-Hall-Exhibitor",
+      "SA24-Full-Access",
+      "SA24-Full-Access-Supporter",
+      "SA24-Trade-Exhibitor",
+      "flag-united-states"
     ]
   },
   {
     "startTime": "2024-12-06T04:55:00Z",
     "endTime": "2024-12-06T05:10:00Z",
     "timezone": "JST",
-    "title": "What\u2019s New for SIGGRAPH Educators in CS2023: Undergraduate Computer Science Curricular Guidelines",
+    "title": "What’s New for SIGGRAPH Educators in CS2023: Undergraduate Computer Science Curricular Guidelines",
     "type": "Educator's Forum",
     "location": "G502, G Block, Level 5",
     "speakers": "Susan ReiserJeff Lait",
     "tags": [
-      "People with a Enhanced Access can attend",
-      "People with a Full Access Registration Can Attend",
-      "People with a Full Access Supporter can attend",
-      "This Session will be held in English Language"
+      "SA24-Enhanced-Access",
+      "SA24-Full-Access",
+      "SA24-Full-Access-Supporter",
+      "flag-united-states"
     ]
   },
   {
@@ -856,14 +856,14 @@
     "location": "G409, G Block, Level 4",
     "speakers": "Suki SamraMehar SamraJun KubotaIppei OtakeAkinobu Maejima",
     "tags": [
-      "People with a Enhanced Access can attend",
-      "People with a Exhibit & Experience Access can attend",
-      "People with an Experience Hall Exhibitor Pass can attend",
-      "People with a Full Access Registration Can Attend",
-      "People with a Full Access Supporter can attend",
-      "People with a Trade Exhibitor Pass can attend",
-      "This Session will be held in English Language",
-      "This Session will have AI Translation in Multi-Language"
+      "SA24-Enhanced-Access",
+      "SA24-EE-Access",
+      "SA24-Exp-Hall-Exhibitor",
+      "SA24-Full-Access",
+      "SA24-Full-Access-Supporter",
+      "SA24-Trade-Exhibitor",
+      "flag-united-states",
+      "ai-translation-2275336-1927740"
     ]
   },
   {
@@ -875,9 +875,9 @@
     "location": "Hall B5 Lobby, B Block, Level 5",
     "speakers": "",
     "tags": [
-      "People with a Full Access Registration Can Attend",
-      "People with a Enhanced Access can attend",
-      "This Session will be held in English Language"
+      "SA24-Full-Access",
+      "SA24-Full-Access-Supporter",
+      "flag-united-states"
     ]
   },
   {
@@ -889,12 +889,12 @@
     "location": "G505, G Block, Level 5",
     "speakers": "",
     "tags": [
-      "People with a Enhanced Access can attend",
-      "People with a Exhibit & Experience Access can attend",
-      "People with an Experience Hall Exhibitor Pass can attend",
-      "People with a Full Access Registration Can Attend",
-      "People with a Full Access Supporter can attend",
-      "People with a Trade Exhibitor Pass can attend"
+      "SA24-Enhanced-Access",
+      "SA24-EE-Access",
+      "SA24-Exp-Hall-Exhibitor",
+      "SA24-Full-Access",
+      "SA24-Full-Access-Supporter",
+      "SA24-Trade-Exhibitor"
     ]
   },
   {
@@ -906,13 +906,13 @@
     "location": "G407, G Block, Level 4",
     "speakers": "Tarras Zellerbach-AdamsEmily Rees",
     "tags": [
-      "People with a Enhanced Access can attend",
-      "People with a Exhibit & Experience Access can attend",
-      "People with an Experience Hall Exhibitor Pass can attend",
-      "People with a Full Access Registration Can Attend",
-      "People with a Full Access Supporter can attend",
-      "People with a Trade Exhibitor Pass can attend",
-      "This Session will be held in English Language"
+      "SA24-Enhanced-Access",
+      "SA24-EE-Access",
+      "SA24-Exp-Hall-Exhibitor",
+      "SA24-Full-Access",
+      "SA24-Full-Access-Supporter",
+      "SA24-Trade-Exhibitor",
+      "flag-united-states"
     ]
   },
   {
@@ -924,13 +924,13 @@
     "location": "G408, G Block, Level 4",
     "speakers": "Yuki KoyamaJun KatoTatsuo Yotsukura",
     "tags": [
-      "People with a Enhanced Access can attend",
-      "People with a Exhibit & Experience Access can attend",
-      "People with an Experience Hall Exhibitor Pass can attend",
-      "People with a Full Access Registration Can Attend",
-      "People with a Full Access Supporter can attend",
-      "People with a Trade Exhibitor Pass can attend",
-      "This Session will be held in English Language"
+      "SA24-Enhanced-Access",
+      "SA24-EE-Access",
+      "SA24-Exp-Hall-Exhibitor",
+      "SA24-Full-Access",
+      "SA24-Full-Access-Supporter",
+      "SA24-Trade-Exhibitor",
+      "flag-united-states"
     ]
   },
   {
@@ -942,11 +942,11 @@
     "location": "Hall B7 (2), B Block, Level 7",
     "speakers": "Kusakai KentaroMiyoshi NorihikoHirai YukiyaHiroshi Moriguchi",
     "tags": [
-      "People with a Enhanced Access can attend",
-      "People with a Full Access Registration Can Attend",
-      "People with a Full Access Supporter can attend",
-      "This Session will be held in Japanese Language",
-      "This Session will have Simultaneous Translation from Japanese to English"
+      "SA24-Enhanced-Access",
+      "SA24-Full-Access",
+      "SA24-Full-Access-Supporter",
+      "flag-japan",
+      "chat-bubbles-with-language-translation-icons-isolated-on-white-background"
     ]
   },
   {
@@ -958,10 +958,10 @@
     "location": "G502, G Block, Level 5",
     "speakers": "Takayuki ItohIssei FujishiroKazunori MiyataBarbara MonesAkihiko ShiraiMasafumi Takahashi",
     "tags": [
-      "People with a Enhanced Access can attend",
-      "People with a Full Access Registration Can Attend",
-      "People with a Full Access Supporter can attend",
-      "This Session will be held in English Language"
+      "SA24-Enhanced-Access",
+      "SA24-Full-Access",
+      "SA24-Full-Access-Supporter",
+      "flag-united-states"
     ]
   },
   {
@@ -973,13 +973,13 @@
     "location": "Hall E - Talk Stage, E Block, Level B2",
     "speakers": "",
     "tags": [
-      "People with a Enhanced Access can attend",
-      "People with a Exhibit & Experience Access can attend",
-      "People with an Experience Hall Exhibitor Pass can attend",
-      "People with a Full Access Registration Can Attend",
-      "People with a Full Access Supporter can attend",
-      "People with a Trade Exhibitor Pass can attend",
-      "This Session will be held in Japanese Language"
+      "SA24-Enhanced-Access",
+      "SA24-EE-Access",
+      "SA24-Exp-Hall-Exhibitor",
+      "SA24-Full-Access",
+      "SA24-Full-Access-Supporter",
+      "SA24-Trade-Exhibitor",
+      "flag-japan"
     ]
   },
   {
@@ -991,9 +991,9 @@
     "location": "Hall B5 (2), B Block, Level 5",
     "speakers": "Valentin Deschaintre",
     "tags": [
-      "People with a Full Access Registration Can Attend",
-      "People with a Enhanced Access can attend",
-      "This Session will be held in English Language"
+      "SA24-Full-Access",
+      "SA24-Full-Access-Supporter",
+      "flag-united-states"
     ]
   },
   {
@@ -1005,9 +1005,9 @@
     "location": "Hall B7 (1), B Block, Level 7",
     "speakers": "Li-Yi Wei",
     "tags": [
-      "People with a Full Access Registration Can Attend",
-      "People with a Enhanced Access can attend",
-      "This Session will be held in English Language"
+      "SA24-Full-Access",
+      "SA24-Full-Access-Supporter",
+      "flag-united-states"
     ]
   },
   {
@@ -1019,9 +1019,9 @@
     "location": "Hall B5 (1), B Block, Level 5",
     "speakers": "Peng Song",
     "tags": [
-      "People with a Full Access Registration Can Attend",
-      "People with a Enhanced Access can attend",
-      "This Session will be held in English Language"
+      "SA24-Full-Access",
+      "SA24-Full-Access-Supporter",
+      "flag-united-states"
     ]
   },
   {
@@ -1033,10 +1033,10 @@
     "location": "G502, G Block, Level 5",
     "speakers": "Haoran Xie",
     "tags": [
-      "People with a Enhanced Access can attend",
-      "People with a Full Access Registration Can Attend",
-      "People with a Full Access Supporter can attend",
-      "This Session will be held in English Language"
+      "SA24-Enhanced-Access",
+      "SA24-Full-Access",
+      "SA24-Full-Access-Supporter",
+      "flag-united-states"
     ]
   },
   {
@@ -1048,11 +1048,11 @@
     "location": "Hall B7 (2), B Block, Level 7",
     "speakers": "Takeshi Okuya",
     "tags": [
-      "People with a Enhanced Access can attend",
-      "People with a Full Access Registration Can Attend",
-      "People with a Full Access Supporter can attend",
-      "This Session will be held in English Language",
-      "This Session will have AI Translation in Multi-Language"
+      "SA24-Enhanced-Access",
+      "SA24-Full-Access",
+      "SA24-Full-Access-Supporter",
+      "flag-united-states",
+      "ai-translation-2275336-1927740"
     ]
   },
   {
@@ -1064,9 +1064,9 @@
     "location": "Hall B5 Lobby, B Block, Level 5",
     "speakers": "",
     "tags": [
-      "People with a Full Access Registration Can Attend",
-      "People with a Enhanced Access can attend",
-      "This Session will be held in English Language"
+      "SA24-Full-Access",
+      "SA24-Full-Access-Supporter",
+      "flag-united-states"
     ]
   },
   {
@@ -1078,28 +1078,28 @@
     "location": "Hall C, C Block, Level 4",
     "speakers": "Takahito Tejima",
     "tags": [
-      "People with a Enhanced Access can attend",
-      "People with a Full Access Registration Can Attend",
-      "People with a Full Access Supporter can attend",
-      "This Session will be held in English Language"
+      "SA24-Enhanced-Access",
+      "SA24-Full-Access",
+      "SA24-Full-Access-Supporter",
+      "flag-united-states"
     ]
   },
   {
     "startTime": "2024-12-06T07:30:00Z",
     "endTime": "2024-12-06T08:30:00Z",
     "timezone": "JST",
-    "title": "Digging into the Technical Papers (In Japanese) \u300e\u30c6\u30af\u30cb\u30ab\u30eb\u30da\u30fc\u30d1\u30fc\u3092\u77e5\u308b\u300f(DAY4)",
+    "title": "Digging into the Technical Papers (In Japanese) 『テクニカルペーパーを知る』(DAY4)",
     "type": "Birds of a Feather",
     "location": "G510, G Block, Level 5",
     "speakers": "Yuki IgarashiHideki Todo",
     "tags": [
-      "People with a Enhanced Access can attend",
-      "People with a Exhibit & Experience Access can attend",
-      "People with an Experience Hall Exhibitor Pass can attend",
-      "People with a Full Access Registration Can Attend",
-      "People with a Full Access Supporter can attend",
-      "People with a Trade Exhibitor Pass can attend",
-      "This Session will be held in Japanese Language"
+      "SA24-Enhanced-Access",
+      "SA24-EE-Access",
+      "SA24-Exp-Hall-Exhibitor",
+      "SA24-Full-Access",
+      "SA24-Full-Access-Supporter",
+      "SA24-Trade-Exhibitor",
+      "flag-japan"
     ]
   },
   {
@@ -1111,9 +1111,9 @@
     "location": "Hall B7 (1), B Block, Level 7",
     "speakers": "",
     "tags": [
-      "People with a Full Access Registration Can Attend",
-      "People with a Enhanced Access can attend",
-      "This Session will be held in English Language"
+      "SA24-Full-Access",
+      "SA24-Full-Access-Supporter",
+      "flag-united-states"
     ]
   }
 ]
